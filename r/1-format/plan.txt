@@ -1,0 +1,40 @@
+
+
+Plan 
+
+Fix metadata - add in restricted vs not
+
+Run fish data through CheckEM
+
+
+
+
+
+for scripts:
+
+
+
+importinging formating and checking with plots
+
+
+Hyothes:
+- habitat is important (more KGW with sand)
+- distance from access point (more matury KGW with greater distandce from access) 
+- if comparable in habitat  - there will be more matury KGW in the restricted area
+
+
+Scrip to put these covaritate together
+FOV habitat
+Depth
+- make the distance from access point covariate
+RestrictedAccess/Open
+
+
+FSS GAM
+
+- model selection
+- plot importance score
+= plot best model
+
+
+

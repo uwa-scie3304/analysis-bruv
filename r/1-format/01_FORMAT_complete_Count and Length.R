@@ -5,16 +5,7 @@
 
 ### OBJECTIVES ###
 # 1. Import checked data
-# 2. Make factors
-# 3. Make complete.maxn long.format data with zeros filled in:
-      ## PeriodTime will represent the first PeriodTime of MaxN if PeriodTime has been set to zero at Time on Seabed in EM.
-      ## complete.maxn data is useful for species and abundance metrics - that do not account for body size or range/sample unit size
-# 4. Make complete.length.number.mass data with zeros filled in:
-      ## useful for calculating abundance/mass based on length rules (e.g. greater than legal)
-      ## useful for controling for range/sample unit size
-      ## useful for length analyses (e.g. mean length, KDE, histograms) - after expansion by number of lengths per sample per species - see example below
-# 6. Write complete data sets for further analysis
-
+# 2. 
 
 ### Please forward any updates and improvements to tim.langlois@uwa.edu.au & brooke.gibbons@uwa.edu.au or raise an issue in the "globalarchive-query" GitHub repository
 
@@ -57,15 +48,19 @@ download.dir<-paste(data.dir,"raw",sep="/")
 to.be.checked.dir<-paste(data.dir,"staging",sep="/") 
 tidy.dir<-paste(data.dir,"tidy",sep="/")
 error.dir=paste(data.dir,"errors to check",sep="/")
+staging.dir<-paste(data.dir,"staging",sep="/")
+
 
 # Read in the data----
-setwd(tidy.dir)
+setwd(staging.dir)
 dir()
 
 #read in complete count data from CheckEM
 count<-read_csv(file=paste(study,"count.csv",sep = "_"),na = c("", " "))%>%
   # dplyr::mutate(id=paste(campaignid,sample,sep="."))%>%
   dplyr::glimpse()
+unique(count$status)
+
 
 #read in complete length data from CheckEM
 length<-read_csv(file=paste(study,"length.csv",sep = "_"),na = c("", " "))%>%
@@ -73,7 +68,7 @@ length<-read_csv(file=paste(study,"length.csv",sep = "_"),na = c("", " "))%>%
   dplyr::glimpse()
 
 
-# Make abundance less than and greater than maturity from length----
+# Make abundance less than and greater than maturity from length----180mm? ----
 
   # Claude - please can you make a script to make it
   
@@ -85,11 +80,13 @@ length<-read_csv(file=paste(study,"length.csv",sep = "_"),na = c("", " "))%>%
 #Check data with some plots!----
 
 # - Claude - please can you make some plots to check this data
-#   - count with a box plot by maturity
-# - count with bar and whisker by matrurty
+#   - count with a box plot by maturity = plus a symbol for mean!
+# - count with bar and whisker by maturity
 # 
+
+
 # Then make some spatial plots to check the data
-# use ggmaps() to graba quick make and plot spaitally
+# use leafllet() to graba quick make and plot spatially
 # - bubble plot of greater than and less than maturity
 
 
