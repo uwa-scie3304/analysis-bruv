@@ -29,6 +29,16 @@ Depth
 - make the distance from access point covariate
 RestrictedAccess/Open
 
+Check data with some plots!----
+
+- Claude - please can you make some plots to check this data
+ - count with a box plot by class?
+-
+
+Then make some spatial plots to check the data
+use ggmaps() to graba quick make and plot spaitally
+- bubble plot of each braod class and relief?
+
 
 FSS GAM
 
