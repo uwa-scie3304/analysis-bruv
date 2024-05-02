@@ -9,9 +9,6 @@
 # Clear objects from your environment
 rm(list = ls())
 
-# Set your working directory to the project's directory
-setwd(here::here())
-
 # Load libraries and install the CheckEM package (only need to install once)
 library(devtools)
 # devtools::install_github("GlobalArchiveManual/CheckEM") # Use this to install the CheckEM package if you have not already done so
@@ -21,6 +18,9 @@ library(ggplot2)
 library(sf)
 library(here)
 library(leaflet)
+
+# Set your working directory to the project's directory
+setwd(here::here())
 
 # Set the study name (e.g. campaignID) - this way your code is reuseable for a different stereo-video campaign
 name <- "2024_Albany_stereo-BRUVs"
@@ -45,33 +45,7 @@ ggplot(data = top_species, aes(x = reorder(scientific, sum_maxn), y = sum_maxn))
   labs(x = expression(Overall~abundance~(Sigma~MaxN)), y = "Species") +
   theme_classic()
 
-# Plot individual species spatially, with a bubble plot where size of the bubble = MaxN
-# Select your species - e.g. King George Whiting Sillaginodes punctatus
-species_name <- 'Sillaginodes punctatus'
-
-# Split the data into samples with fish, and samples with no fish
-overzero <-  count %>% 
-  filter(scientific %in% species_name & count > 0) 
-
-# Zeroes are important!
-equalzero <- count %>% 
-  filter(scientific %in% species_name & count == 0)
-
-# Create a leaflet basemap - this is an interactive plot with a choice of multiple basemaps
-base_plot <- leaflet(data = count) %>%                     
-  addTiles() %>%                                                    
-  addProviderTiles('Esri.WorldImagery', group = "World Imagery") %>%
-  addLayersControl(baseGroups = c("Open Street Map", "World Imagery"), options = layersControlOptions(collapsed = FALSE))
-
-# Visualise the bubble plots - white bubble = deployment with none of the species
-if (nrow(overzero)) {                                               
-  bubble_plot <- base_plot %>%
-    addCircleMarkers(data = overzero, lat = ~ latitude_dd, lng = ~ longitude_dd, radius = ~ count / 2, fillOpacity = 0.5, stroke = FALSE, label = ~ as.character(opcode))}
-
-if (nrow(equalzero)) {                                            
-  bubble_plot <- bubble_plot %>%
-    addCircleMarkers(data = equalzero, lat = ~ latitude_dd, lng = ~ longitude_dd, radius = 5, fillOpacity = 0.5, color = "white", stroke = FALSE, label = ~ as.character(opcode))}
-bubble_plot
+# Spatial plot
 
 # Format the data to a format suitable to use in modelling scripts
 # This needs to be long format data, with one line per deployment/opcode
@@ -163,35 +137,7 @@ sublegal_kgw <- length %>%
 tidy_length <- bind_rows(mature_kgw, immature_kgw, legal_kgw, sublegal_kgw) %>%
   glimpse()
 
-# Set the response variable
-response_var <- "Legal KGW"
-
-# Split the data into samples with fish, and samples with no fish
-overzero <-  tidy_length %>% 
-  dplyr::filter(response %in% response_var & number > 0) 
-
-# Zeroes are important!
-equalzero <- tidy_length %>% 
-  filter(response %in% response_var & number == 0)
-
-# Remove old plot files, otherwise the plots will keep adding to old versions
-rm(base_plot, bubble_plot)
-
-# Create a leaflet basemap - this is an interactive plot with a choice of multiple basemaps
-base_plot <- leaflet(data = tidy_length) %>%                     
-  addTiles() %>%                                                    
-  addProviderTiles('Esri.WorldImagery', group = "World Imagery") %>%
-  addLayersControl(baseGroups = c("Open Street Map", "World Imagery"), options = layersControlOptions(collapsed = FALSE))
-
-# Visualise the bubble plots - white bubble = deployment with 0 of the response
-if (nrow(overzero)) {                                               
-  bubble_plot <- base_plot %>%
-    addCircleMarkers(data = overzero, lat = ~ latitude_dd, lng = ~ longitude_dd, radius = ~ number / 2, fillOpacity = 0.5, stroke = FALSE, label = ~ as.character(opcode))}
-
-if (nrow(equalzero)) {                                            
-  bubble_plot <- bubble_plot %>%
-    addCircleMarkers(data = equalzero, lat = ~ latitude_dd, lng = ~ longitude_dd, radius = 5, fillOpacity = 0.5, color = "white", stroke = FALSE, label = ~ as.character(opcode))}
-bubble_plot
+# Spatial plot
 
 # Save the length data
 saveRDS(tidy_length, file = paste0("data/staging/", name, "_tidy-length.rds"))

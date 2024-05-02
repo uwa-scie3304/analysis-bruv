@@ -1,0 +1,892 @@
+"campaignid","sample","caab_code","number","opcode","latitude_dd","longitude_dd","date_time","site","location","status","depth_m","successful_count","successful_length","zone","marine_region","observer_count","observer_length","inclusion_probability","visibility_m","level_1","level_2","level_3","level_4","level_5","level_6","level_7","level_8","family","genus","species"
+"2023-03_SwC_stereo-BRUVs","10","00000002",0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Biota","Sessile invertebrates",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs","10","10000904",0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Biota","Sponges","Massive forms","Simple",NA,NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs","10","10000905",0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Biota","Sponges","Massive forms","Balls",NA,NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs","10","10000907",0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Biota","Sponges","Cup-likes","Barrels",NA,NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs","10","10000913",1,"10",-34.083875,114.853305,"2023-03-18T10:44:55+08:00",NA,NA,"No-take","44.3","Yes","Yes","National Park Zone (IUCN II)","South-west","Gidget Mirrabelle","Levi Peters",NA,NA,"Biota","Sponges","Erect forms","Laminar",NA,NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs","10","10000915",0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Biota","Sponges","Erect forms","Branching",NA,NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs","10","10000918",0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Biota","Sponges","Cup-likes","Cups","Incomplete cup / curled fan",NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs","10","11001000",0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Biota","Cnidaria","Hydroids",NA,NA,NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs","10","11168902",0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Biota","Cnidaria","Corals","Black & Octocorals","Branching (3D)",NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs","10","11168912",0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Biota","Cnidaria","Corals","Black & Octocorals","Fan (2D)",NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs","10","20000903",0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Biota","Bryozoa","Hard","Fenestrate",NA,NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs","10","20000907",0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Biota","Bryozoa","Soft","Foliaceous",NA,NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs","10","54079009",0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Biota","Macroalgae","Large canopy-forming","Brown",NA,NA,NA,NA,"Lessoniaceae","Ecklonia","radiata"
+"2023-03_SwC_stereo-BRUVs","10","63618905",7,"10",-34.083875,114.853305,"2023-03-18T10:44:55+08:00",NA,NA,"No-take","44.3","Yes","Yes","National Park Zone (IUCN II)","South-west","Gidget Mirrabelle","Levi Peters",NA,NA,"Biota","Seagrasses","Strap-like leaves",NA,NA,NA,NA,NA,"Cymodoceaceae","Thalassodendron","spp"
+"2023-03_SwC_stereo-BRUVs","10","80300904",0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Biota","Macroalgae","Erect coarse branching","Brown",NA,NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs","10","80300905",0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Biota","Macroalgae","Erect coarse branching","Green",NA,NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs","10","80300906",0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Biota","Macroalgae","Erect coarse branching","Red",NA,NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs","10","80300908",0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Biota","Macroalgae","Erect fine branching","Brown",NA,NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs","10","80300909",0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Biota","Macroalgae","Erect fine branching","Green",NA,NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs","10","80300910",1,"10",-34.083875,114.853305,"2023-03-18T10:44:55+08:00",NA,NA,"No-take","44.3","Yes","Yes","National Park Zone (IUCN II)","South-west","Gidget Mirrabelle","Levi Peters",NA,NA,"Biota","Macroalgae","Erect fine branching","Red",NA,NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs","10","80300931",0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Biota","Macroalgae","Filamentous / filiform","Brown",NA,NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs","10","80300933",0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Biota","Macroalgae","Filamentous / filiform","Red",NA,NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs","10","82001002",0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Physical","Substrate","Consolidated (hard)","Rock",NA,NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs","10","82001011",0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Physical","Substrate","Unconsolidated (soft)","Pebble / gravel","Gravel (2-10mm)",NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs","10","82001012",0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Physical","Substrate","Unconsolidated (soft)","Pebble / gravel","Pebble (10-64mm)",NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs","10","82001014",0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Physical","Substrate","Unconsolidated (soft)","Sand / mud (<2mm)","Coarse sand (with shell fragments)",NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs","10",NA,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs","12","00000002",1,"12",-34.13248667,114.8816483,"2023-03-15T10:18:53+08:00",NA,NA,"No-take","42.6","Yes","Yes","National Park Zone (IUCN II)","South-west","Daniel Agnello","Gidget Mirrabelle",NA,NA,"Biota","Sessile invertebrates",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs","12","10000904",1,"12",-34.13248667,114.8816483,"2023-03-15T10:18:53+08:00",NA,NA,"No-take","42.6","Yes","Yes","National Park Zone (IUCN II)","South-west","Daniel Agnello","Gidget Mirrabelle",NA,NA,"Biota","Sponges","Massive forms","Simple",NA,NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs","12","10000905",0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Biota","Sponges","Massive forms","Balls",NA,NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs","12","10000907",0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Biota","Sponges","Cup-likes","Barrels",NA,NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs","12","10000913",0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Biota","Sponges","Erect forms","Laminar",NA,NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs","12","10000915",0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Biota","Sponges","Erect forms","Branching",NA,NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs","12","10000918",0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Biota","Sponges","Cup-likes","Cups","Incomplete cup / curled fan",NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs","12","11001000",0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Biota","Cnidaria","Hydroids",NA,NA,NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs","12","11168902",0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Biota","Cnidaria","Corals","Black & Octocorals","Branching (3D)",NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs","12","11168912",0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Biota","Cnidaria","Corals","Black & Octocorals","Fan (2D)",NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs","12","20000903",0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Biota","Bryozoa","Hard","Fenestrate",NA,NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs","12","20000907",0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Biota","Bryozoa","Soft","Foliaceous",NA,NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs","12","54079009",4,"12",-34.13248667,114.8816483,"2023-03-15T10:18:53+08:00",NA,NA,"No-take","42.6","Yes","Yes","National Park Zone (IUCN II)","South-west","Daniel Agnello","Gidget Mirrabelle",NA,NA,"Biota","Macroalgae","Large canopy-forming","Brown",NA,NA,NA,NA,"Lessoniaceae","Ecklonia","radiata"
+"2023-03_SwC_stereo-BRUVs","12","63618905",1,"12",-34.13248667,114.8816483,"2023-03-15T10:18:53+08:00",NA,NA,"No-take","42.6","Yes","Yes","National Park Zone (IUCN II)","South-west","Daniel Agnello","Gidget Mirrabelle",NA,NA,"Biota","Seagrasses","Strap-like leaves",NA,NA,NA,NA,NA,"Cymodoceaceae","Thalassodendron","spp"
+"2023-03_SwC_stereo-BRUVs","12","80300904",5,"12",-34.13248667,114.8816483,"2023-03-15T10:18:53+08:00",NA,NA,"No-take","42.6","Yes","Yes","National Park Zone (IUCN II)","South-west","Daniel Agnello","Gidget Mirrabelle",NA,NA,"Biota","Macroalgae","Erect coarse branching","Brown",NA,NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs","12","80300905",0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Biota","Macroalgae","Erect coarse branching","Green",NA,NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs","12","80300906",0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Biota","Macroalgae","Erect coarse branching","Red",NA,NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs","12","80300908",1,"12",-34.13248667,114.8816483,"2023-03-15T10:18:53+08:00",NA,NA,"No-take","42.6","Yes","Yes","National Park Zone (IUCN II)","South-west","Daniel Agnello","Gidget Mirrabelle",NA,NA,"Biota","Macroalgae","Erect fine branching","Brown",NA,NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs","12","80300909",0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Biota","Macroalgae","Erect fine branching","Green",NA,NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs","12","80300910",2,"12",-34.13248667,114.8816483,"2023-03-15T10:18:53+08:00",NA,NA,"No-take","42.6","Yes","Yes","National Park Zone (IUCN II)","South-west","Daniel Agnello","Gidget Mirrabelle",NA,NA,"Biota","Macroalgae","Erect fine branching","Red",NA,NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs","12","80300931",0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Biota","Macroalgae","Filamentous / filiform","Brown",NA,NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs","12","80300933",3,"12",-34.13248667,114.8816483,"2023-03-15T10:18:53+08:00",NA,NA,"No-take","42.6","Yes","Yes","National Park Zone (IUCN II)","South-west","Daniel Agnello","Gidget Mirrabelle",NA,NA,"Biota","Macroalgae","Filamentous / filiform","Red",NA,NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs","12","82001002",0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Physical","Substrate","Consolidated (hard)","Rock",NA,NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs","12","82001011",0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Physical","Substrate","Unconsolidated (soft)","Pebble / gravel","Gravel (2-10mm)",NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs","12","82001012",0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Physical","Substrate","Unconsolidated (soft)","Pebble / gravel","Pebble (10-64mm)",NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs","12","82001014",0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Physical","Substrate","Unconsolidated (soft)","Sand / mud (<2mm)","Coarse sand (with shell fragments)",NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs","12",NA,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs","14","00000002",1,"14",-34.07530333,114.8686033,"2023-03-18T10:28:07+08:00",NA,NA,"No-take","42.7","Yes","Yes","National Park Zone (IUCN II)","South-west","Gidget Mirrabelle","Levi Peters",NA,NA,"Biota","Sessile invertebrates",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs","14","10000904",0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Biota","Sponges","Massive forms","Simple",NA,NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs","14","10000905",0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Biota","Sponges","Massive forms","Balls",NA,NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs","14","10000907",0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Biota","Sponges","Cup-likes","Barrels",NA,NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs","14","10000913",0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Biota","Sponges","Erect forms","Laminar",NA,NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs","14","10000915",0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Biota","Sponges","Erect forms","Branching",NA,NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs","14","10000918",0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Biota","Sponges","Cup-likes","Cups","Incomplete cup / curled fan",NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs","14","11001000",0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Biota","Cnidaria","Hydroids",NA,NA,NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs","14","11168902",0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Biota","Cnidaria","Corals","Black & Octocorals","Branching (3D)",NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs","14","11168912",0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Biota","Cnidaria","Corals","Black & Octocorals","Fan (2D)",NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs","14","20000903",0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Biota","Bryozoa","Hard","Fenestrate",NA,NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs","14","20000907",0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Biota","Bryozoa","Soft","Foliaceous",NA,NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs","14","54079009",5,"14",-34.07530333,114.8686033,"2023-03-18T10:28:07+08:00",NA,NA,"No-take","42.7","Yes","Yes","National Park Zone (IUCN II)","South-west","Gidget Mirrabelle","Levi Peters",NA,NA,"Biota","Macroalgae","Large canopy-forming","Brown",NA,NA,NA,NA,"Lessoniaceae","Ecklonia","radiata"
+"2023-03_SwC_stereo-BRUVs","14","63618905",1,"14",-34.07530333,114.8686033,"2023-03-18T10:28:07+08:00",NA,NA,"No-take","42.7","Yes","Yes","National Park Zone (IUCN II)","South-west","Gidget Mirrabelle","Levi Peters",NA,NA,"Biota","Seagrasses","Strap-like leaves",NA,NA,NA,NA,NA,"Cymodoceaceae","Thalassodendron","spp"
+"2023-03_SwC_stereo-BRUVs","14","80300904",1,"14",-34.07530333,114.8686033,"2023-03-18T10:28:07+08:00",NA,NA,"No-take","42.7","Yes","Yes","National Park Zone (IUCN II)","South-west","Gidget Mirrabelle","Levi Peters",NA,NA,"Biota","Macroalgae","Erect coarse branching","Brown",NA,NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs","14","80300905",0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Biota","Macroalgae","Erect coarse branching","Green",NA,NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs","14","80300906",0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Biota","Macroalgae","Erect coarse branching","Red",NA,NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs","14","80300908",0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Biota","Macroalgae","Erect fine branching","Brown",NA,NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs","14","80300909",0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Biota","Macroalgae","Erect fine branching","Green",NA,NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs","14","80300910",7,"14",-34.07530333,114.8686033,"2023-03-18T10:28:07+08:00",NA,NA,"No-take","42.7","Yes","Yes","National Park Zone (IUCN II)","South-west","Gidget Mirrabelle","Levi Peters",NA,NA,"Biota","Macroalgae","Erect fine branching","Red",NA,NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs","14","80300931",0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Biota","Macroalgae","Filamentous / filiform","Brown",NA,NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs","14","80300933",0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Biota","Macroalgae","Filamentous / filiform","Red",NA,NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs","14","82001002",0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Physical","Substrate","Consolidated (hard)","Rock",NA,NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs","14","82001011",0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Physical","Substrate","Unconsolidated (soft)","Pebble / gravel","Gravel (2-10mm)",NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs","14","82001012",0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Physical","Substrate","Unconsolidated (soft)","Pebble / gravel","Pebble (10-64mm)",NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs","14","82001014",4,"14",-34.07530333,114.8686033,"2023-03-18T10:28:07+08:00",NA,NA,"No-take","42.7","Yes","Yes","National Park Zone (IUCN II)","South-west","Gidget Mirrabelle","Levi Peters",NA,NA,"Physical","Substrate","Unconsolidated (soft)","Sand / mud (<2mm)","Coarse sand (with shell fragments)",NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs","14",NA,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs","15","00000002",1,"15",-34.084775,114.8444033,"2023-03-18T10:50:22+08:00",NA,NA,"No-take","45.3","Yes","Yes","National Park Zone (IUCN II)","South-west","Gidget Mirrabelle","Levi Peters",NA,NA,"Biota","Sessile invertebrates",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs","15","10000904",0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Biota","Sponges","Massive forms","Simple",NA,NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs","15","10000905",0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Biota","Sponges","Massive forms","Balls",NA,NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs","15","10000907",0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Biota","Sponges","Cup-likes","Barrels",NA,NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs","15","10000913",0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Biota","Sponges","Erect forms","Laminar",NA,NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs","15","10000915",0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Biota","Sponges","Erect forms","Branching",NA,NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs","15","10000918",0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Biota","Sponges","Cup-likes","Cups","Incomplete cup / curled fan",NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs","15","11001000",0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Biota","Cnidaria","Hydroids",NA,NA,NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs","15","11168902",0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Biota","Cnidaria","Corals","Black & Octocorals","Branching (3D)",NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs","15","11168912",0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Biota","Cnidaria","Corals","Black & Octocorals","Fan (2D)",NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs","15","20000903",0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Biota","Bryozoa","Hard","Fenestrate",NA,NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs","15","20000907",0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Biota","Bryozoa","Soft","Foliaceous",NA,NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs","15","54079009",0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Biota","Macroalgae","Large canopy-forming","Brown",NA,NA,NA,NA,"Lessoniaceae","Ecklonia","radiata"
+"2023-03_SwC_stereo-BRUVs","15","63618905",1,"15",-34.084775,114.8444033,"2023-03-18T10:50:22+08:00",NA,NA,"No-take","45.3","Yes","Yes","National Park Zone (IUCN II)","South-west","Gidget Mirrabelle","Levi Peters",NA,NA,"Biota","Seagrasses","Strap-like leaves",NA,NA,NA,NA,NA,"Cymodoceaceae","Thalassodendron","spp"
+"2023-03_SwC_stereo-BRUVs","15","80300904",5,"15",-34.084775,114.8444033,"2023-03-18T10:50:22+08:00",NA,NA,"No-take","45.3","Yes","Yes","National Park Zone (IUCN II)","South-west","Gidget Mirrabelle","Levi Peters",NA,NA,"Biota","Macroalgae","Erect coarse branching","Brown",NA,NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs","15","80300905",0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Biota","Macroalgae","Erect coarse branching","Green",NA,NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs","15","80300906",0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Biota","Macroalgae","Erect coarse branching","Red",NA,NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs","15","80300908",0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Biota","Macroalgae","Erect fine branching","Brown",NA,NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs","15","80300909",0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Biota","Macroalgae","Erect fine branching","Green",NA,NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs","15","80300910",2,"15",-34.084775,114.8444033,"2023-03-18T10:50:22+08:00",NA,NA,"No-take","45.3","Yes","Yes","National Park Zone (IUCN II)","South-west","Gidget Mirrabelle","Levi Peters",NA,NA,"Biota","Macroalgae","Erect fine branching","Red",NA,NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs","15","80300931",0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Biota","Macroalgae","Filamentous / filiform","Brown",NA,NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs","15","80300933",2,"15",-34.084775,114.8444033,"2023-03-18T10:50:22+08:00",NA,NA,"No-take","45.3","Yes","Yes","National Park Zone (IUCN II)","South-west","Gidget Mirrabelle","Levi Peters",NA,NA,"Biota","Macroalgae","Filamentous / filiform","Red",NA,NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs","15","82001002",0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Physical","Substrate","Consolidated (hard)","Rock",NA,NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs","15","82001011",0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Physical","Substrate","Unconsolidated (soft)","Pebble / gravel","Gravel (2-10mm)",NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs","15","82001012",0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Physical","Substrate","Unconsolidated (soft)","Pebble / gravel","Pebble (10-64mm)",NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs","15","82001014",0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Physical","Substrate","Unconsolidated (soft)","Sand / mud (<2mm)","Coarse sand (with shell fragments)",NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs","15",NA,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs","16","00000002",0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Biota","Sessile invertebrates",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs","16","10000904",0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Biota","Sponges","Massive forms","Simple",NA,NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs","16","10000905",0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Biota","Sponges","Massive forms","Balls",NA,NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs","16","10000907",0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Biota","Sponges","Cup-likes","Barrels",NA,NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs","16","10000913",0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Biota","Sponges","Erect forms","Laminar",NA,NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs","16","10000915",0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Biota","Sponges","Erect forms","Branching",NA,NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs","16","10000918",0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Biota","Sponges","Cup-likes","Cups","Incomplete cup / curled fan",NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs","16","11001000",0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Biota","Cnidaria","Hydroids",NA,NA,NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs","16","11168902",0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Biota","Cnidaria","Corals","Black & Octocorals","Branching (3D)",NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs","16","11168912",0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Biota","Cnidaria","Corals","Black & Octocorals","Fan (2D)",NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs","16","20000903",0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Biota","Bryozoa","Hard","Fenestrate",NA,NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs","16","20000907",0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Biota","Bryozoa","Soft","Foliaceous",NA,NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs","16","54079009",0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Biota","Macroalgae","Large canopy-forming","Brown",NA,NA,NA,NA,"Lessoniaceae","Ecklonia","radiata"
+"2023-03_SwC_stereo-BRUVs","16","63618905",13,"16",-34.11395,114.85971,"2023-03-15T10:52:02+08:00",NA,NA,"No-take","45.4","Yes","Yes","National Park Zone (IUCN II)","South-west","Gidget Mirrabelle","Levi Peters",NA,NA,"Biota","Seagrasses","Strap-like leaves",NA,NA,NA,NA,NA,"Cymodoceaceae","Thalassodendron","spp"
+"2023-03_SwC_stereo-BRUVs","16","80300904",0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Biota","Macroalgae","Erect coarse branching","Brown",NA,NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs","16","80300905",0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Biota","Macroalgae","Erect coarse branching","Green",NA,NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs","16","80300906",0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Biota","Macroalgae","Erect coarse branching","Red",NA,NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs","16","80300908",0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Biota","Macroalgae","Erect fine branching","Brown",NA,NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs","16","80300909",0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Biota","Macroalgae","Erect fine branching","Green",NA,NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs","16","80300910",0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Biota","Macroalgae","Erect fine branching","Red",NA,NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs","16","80300931",0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Biota","Macroalgae","Filamentous / filiform","Brown",NA,NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs","16","80300933",0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Biota","Macroalgae","Filamentous / filiform","Red",NA,NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs","16","82001002",0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Physical","Substrate","Consolidated (hard)","Rock",NA,NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs","16","82001011",0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Physical","Substrate","Unconsolidated (soft)","Pebble / gravel","Gravel (2-10mm)",NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs","16","82001012",0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Physical","Substrate","Unconsolidated (soft)","Pebble / gravel","Pebble (10-64mm)",NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs","16","82001014",0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Physical","Substrate","Unconsolidated (soft)","Sand / mud (<2mm)","Coarse sand (with shell fragments)",NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs","16",NA,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs","17","00000002",0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Biota","Sessile invertebrates",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs","17","10000904",0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Biota","Sponges","Massive forms","Simple",NA,NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs","17","10000905",0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Biota","Sponges","Massive forms","Balls",NA,NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs","17","10000907",0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Biota","Sponges","Cup-likes","Barrels",NA,NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs","17","10000913",0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Biota","Sponges","Erect forms","Laminar",NA,NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs","17","10000915",0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Biota","Sponges","Erect forms","Branching",NA,NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs","17","10000918",0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Biota","Sponges","Cup-likes","Cups","Incomplete cup / curled fan",NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs","17","11001000",0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Biota","Cnidaria","Hydroids",NA,NA,NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs","17","11168902",0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Biota","Cnidaria","Corals","Black & Octocorals","Branching (3D)",NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs","17","11168912",0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Biota","Cnidaria","Corals","Black & Octocorals","Fan (2D)",NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs","17","20000903",0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Biota","Bryozoa","Hard","Fenestrate",NA,NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs","17","20000907",0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Biota","Bryozoa","Soft","Foliaceous",NA,NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs","17","54079009",0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Biota","Macroalgae","Large canopy-forming","Brown",NA,NA,NA,NA,"Lessoniaceae","Ecklonia","radiata"
+"2023-03_SwC_stereo-BRUVs","17","63618905",5,"17",-34.09634667,114.85758,"2023-03-15T11:00:45+08:00",NA,NA,"No-take","43.3","Yes","Yes","National Park Zone (IUCN II)","South-west","Gidget Mirrabelle","Levi Peters",NA,NA,"Biota","Seagrasses","Strap-like leaves",NA,NA,NA,NA,NA,"Cymodoceaceae","Thalassodendron","spp"
+"2023-03_SwC_stereo-BRUVs","17","80300904",0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Biota","Macroalgae","Erect coarse branching","Brown",NA,NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs","17","80300905",1,"17",-34.09634667,114.85758,"2023-03-15T11:00:45+08:00",NA,NA,"No-take","43.3","Yes","Yes","National Park Zone (IUCN II)","South-west","Gidget Mirrabelle","Levi Peters",NA,NA,"Biota","Macroalgae","Erect coarse branching","Green",NA,NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs","17","80300906",5,"17",-34.09634667,114.85758,"2023-03-15T11:00:45+08:00",NA,NA,"No-take","43.3","Yes","Yes","National Park Zone (IUCN II)","South-west","Gidget Mirrabelle","Levi Peters",NA,NA,"Biota","Macroalgae","Erect coarse branching","Red",NA,NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs","17","80300908",0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Biota","Macroalgae","Erect fine branching","Brown",NA,NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs","17","80300909",0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Biota","Macroalgae","Erect fine branching","Green",NA,NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs","17","80300910",9,"17",-34.09634667,114.85758,"2023-03-15T11:00:45+08:00",NA,NA,"No-take","43.3","Yes","Yes","National Park Zone (IUCN II)","South-west","Gidget Mirrabelle","Levi Peters",NA,NA,"Biota","Macroalgae","Erect fine branching","Red",NA,NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs","17","80300931",0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Biota","Macroalgae","Filamentous / filiform","Brown",NA,NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs","17","80300933",0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Biota","Macroalgae","Filamentous / filiform","Red",NA,NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs","17","82001002",0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Physical","Substrate","Consolidated (hard)","Rock",NA,NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs","17","82001011",0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Physical","Substrate","Unconsolidated (soft)","Pebble / gravel","Gravel (2-10mm)",NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs","17","82001012",0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Physical","Substrate","Unconsolidated (soft)","Pebble / gravel","Pebble (10-64mm)",NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs","17","82001014",0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Physical","Substrate","Unconsolidated (soft)","Sand / mud (<2mm)","Coarse sand (with shell fragments)",NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs","17",NA,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs","19","00000002",8,"19",-34.12047,114.7822167,"2023-03-18T13:01:34+08:00",NA,NA,"No-take","73.6","Yes","Yes","National Park Zone (IUCN II)","South-west","Gidget Mirrabelle","Levi Peters",NA,NA,"Biota","Sessile invertebrates",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs","19","10000904",0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Biota","Sponges","Massive forms","Simple",NA,NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs","19","10000905",0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Biota","Sponges","Massive forms","Balls",NA,NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs","19","10000907",2,"19",-34.12047,114.7822167,"2023-03-18T13:01:34+08:00",NA,NA,"No-take","73.6","Yes","Yes","National Park Zone (IUCN II)","South-west","Gidget Mirrabelle","Levi Peters",NA,NA,"Biota","Sponges","Cup-likes","Barrels",NA,NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs","19","10000913",0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Biota","Sponges","Erect forms","Laminar",NA,NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs","19","10000915",0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Biota","Sponges","Erect forms","Branching",NA,NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs","19","10000918",2,"19",-34.12047,114.7822167,"2023-03-18T13:01:34+08:00",NA,NA,"No-take","73.6","Yes","Yes","National Park Zone (IUCN II)","South-west","Gidget Mirrabelle","Levi Peters",NA,NA,"Biota","Sponges","Cup-likes","Cups","Incomplete cup / curled fan",NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs","19","11001000",2,"19",-34.12047,114.7822167,"2023-03-18T13:01:34+08:00",NA,NA,"No-take","73.6","Yes","Yes","National Park Zone (IUCN II)","South-west","Gidget Mirrabelle","Levi Peters",NA,NA,"Biota","Cnidaria","Hydroids",NA,NA,NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs","19","11168902",1,"19",-34.12047,114.7822167,"2023-03-18T13:01:34+08:00",NA,NA,"No-take","73.6","Yes","Yes","National Park Zone (IUCN II)","South-west","Gidget Mirrabelle","Levi Peters",NA,NA,"Biota","Cnidaria","Corals","Black & Octocorals","Branching (3D)",NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs","19","11168912",0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Biota","Cnidaria","Corals","Black & Octocorals","Fan (2D)",NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs","19","20000903",0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Biota","Bryozoa","Hard","Fenestrate",NA,NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs","19","20000907",0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Biota","Bryozoa","Soft","Foliaceous",NA,NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs","19","54079009",0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Biota","Macroalgae","Large canopy-forming","Brown",NA,NA,NA,NA,"Lessoniaceae","Ecklonia","radiata"
+"2023-03_SwC_stereo-BRUVs","19","63618905",0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Biota","Seagrasses","Strap-like leaves",NA,NA,NA,NA,NA,"Cymodoceaceae","Thalassodendron","spp"
+"2023-03_SwC_stereo-BRUVs","19","80300904",0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Biota","Macroalgae","Erect coarse branching","Brown",NA,NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs","19","80300905",0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Biota","Macroalgae","Erect coarse branching","Green",NA,NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs","19","80300906",0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Biota","Macroalgae","Erect coarse branching","Red",NA,NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs","19","80300908",0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Biota","Macroalgae","Erect fine branching","Brown",NA,NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs","19","80300909",0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Biota","Macroalgae","Erect fine branching","Green",NA,NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs","19","80300910",0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Biota","Macroalgae","Erect fine branching","Red",NA,NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs","19","80300931",0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Biota","Macroalgae","Filamentous / filiform","Brown",NA,NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs","19","80300933",0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Biota","Macroalgae","Filamentous / filiform","Red",NA,NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs","19","82001002",0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Physical","Substrate","Consolidated (hard)","Rock",NA,NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs","19","82001011",1,"19",-34.12047,114.7822167,"2023-03-18T13:01:34+08:00",NA,NA,"No-take","73.6","Yes","Yes","National Park Zone (IUCN II)","South-west","Gidget Mirrabelle","Levi Peters",NA,NA,"Physical","Substrate","Unconsolidated (soft)","Pebble / gravel","Gravel (2-10mm)",NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs","19","82001012",0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Physical","Substrate","Unconsolidated (soft)","Pebble / gravel","Pebble (10-64mm)",NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs","19","82001014",0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Physical","Substrate","Unconsolidated (soft)","Sand / mud (<2mm)","Coarse sand (with shell fragments)",NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs","19",NA,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs","2","00000002",0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Biota","Sessile invertebrates",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs","2","10000904",0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Biota","Sponges","Massive forms","Simple",NA,NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs","2","10000905",0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Biota","Sponges","Massive forms","Balls",NA,NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs","2","10000907",0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Biota","Sponges","Cup-likes","Barrels",NA,NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs","2","10000913",0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Biota","Sponges","Erect forms","Laminar",NA,NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs","2","10000915",0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Biota","Sponges","Erect forms","Branching",NA,NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs","2","10000918",0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Biota","Sponges","Cup-likes","Cups","Incomplete cup / curled fan",NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs","2","11001000",0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Biota","Cnidaria","Hydroids",NA,NA,NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs","2","11168902",0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Biota","Cnidaria","Corals","Black & Octocorals","Branching (3D)",NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs","2","11168912",0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Biota","Cnidaria","Corals","Black & Octocorals","Fan (2D)",NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs","2","20000903",0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Biota","Bryozoa","Hard","Fenestrate",NA,NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs","2","20000907",0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Biota","Bryozoa","Soft","Foliaceous",NA,NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs","2","54079009",0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Biota","Macroalgae","Large canopy-forming","Brown",NA,NA,NA,NA,"Lessoniaceae","Ecklonia","radiata"
+"2023-03_SwC_stereo-BRUVs","2","63618905",3,"2",-34.11190167,114.9008467,"2023-03-15T10:02:10+08:00",NA,NA,"No-take","44.7","Yes","Yes","National Park Zone (IUCN II)","South-west","Gidget Mirrabelle","Levi Peters",NA,NA,"Biota","Seagrasses","Strap-like leaves",NA,NA,NA,NA,NA,"Cymodoceaceae","Thalassodendron","spp"
+"2023-03_SwC_stereo-BRUVs","2","80300904",1,"2",-34.11190167,114.9008467,"2023-03-15T10:02:10+08:00",NA,NA,"No-take","44.7","Yes","Yes","National Park Zone (IUCN II)","South-west","Gidget Mirrabelle","Levi Peters",NA,NA,"Biota","Macroalgae","Erect coarse branching","Brown",NA,NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs","2","80300905",0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Biota","Macroalgae","Erect coarse branching","Green",NA,NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs","2","80300906",0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Biota","Macroalgae","Erect coarse branching","Red",NA,NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs","2","80300908",1,"2",-34.11190167,114.9008467,"2023-03-15T10:02:10+08:00",NA,NA,"No-take","44.7","Yes","Yes","National Park Zone (IUCN II)","South-west","Gidget Mirrabelle","Levi Peters",NA,NA,"Biota","Macroalgae","Erect fine branching","Brown",NA,NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs","2","80300909",0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Biota","Macroalgae","Erect fine branching","Green",NA,NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs","2","80300910",1,"2",-34.11190167,114.9008467,"2023-03-15T10:02:10+08:00",NA,NA,"No-take","44.7","Yes","Yes","National Park Zone (IUCN II)","South-west","Gidget Mirrabelle","Levi Peters",NA,NA,"Biota","Macroalgae","Erect fine branching","Red",NA,NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs","2","80300931",1,"2",-34.11190167,114.9008467,"2023-03-15T10:02:10+08:00",NA,NA,"No-take","44.7","Yes","Yes","National Park Zone (IUCN II)","South-west","Gidget Mirrabelle","Levi Peters",NA,NA,"Biota","Macroalgae","Filamentous / filiform","Brown",NA,NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs","2","80300933",8,"2",-34.11190167,114.9008467,"2023-03-15T10:02:10+08:00",NA,NA,"No-take","44.7","Yes","Yes","National Park Zone (IUCN II)","South-west","Gidget Mirrabelle","Levi Peters",NA,NA,"Biota","Macroalgae","Filamentous / filiform","Red",NA,NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs","2","82001002",0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Physical","Substrate","Consolidated (hard)","Rock",NA,NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs","2","82001011",0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Physical","Substrate","Unconsolidated (soft)","Pebble / gravel","Gravel (2-10mm)",NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs","2","82001012",0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Physical","Substrate","Unconsolidated (soft)","Pebble / gravel","Pebble (10-64mm)",NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs","2","82001014",0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Physical","Substrate","Unconsolidated (soft)","Sand / mud (<2mm)","Coarse sand (with shell fragments)",NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs","2",NA,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs","21","00000002",0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Biota","Sessile invertebrates",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs","21","10000904",0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Biota","Sponges","Massive forms","Simple",NA,NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs","21","10000905",0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Biota","Sponges","Massive forms","Balls",NA,NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs","21","10000907",0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Biota","Sponges","Cup-likes","Barrels",NA,NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs","21","10000913",0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Biota","Sponges","Erect forms","Laminar",NA,NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs","21","10000915",0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Biota","Sponges","Erect forms","Branching",NA,NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs","21","10000918",0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Biota","Sponges","Cup-likes","Cups","Incomplete cup / curled fan",NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs","21","11001000",0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Biota","Cnidaria","Hydroids",NA,NA,NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs","21","11168902",0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Biota","Cnidaria","Corals","Black & Octocorals","Branching (3D)",NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs","21","11168912",0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Biota","Cnidaria","Corals","Black & Octocorals","Fan (2D)",NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs","21","20000903",0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Biota","Bryozoa","Hard","Fenestrate",NA,NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs","21","20000907",0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Biota","Bryozoa","Soft","Foliaceous",NA,NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs","21","54079009",0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Biota","Macroalgae","Large canopy-forming","Brown",NA,NA,NA,NA,"Lessoniaceae","Ecklonia","radiata"
+"2023-03_SwC_stereo-BRUVs","21","63618905",3,"21",-34.06438333,114.857485,"2023-03-18T10:34:59+08:00",NA,NA,"No-take","42.3","Yes","Yes","National Park Zone (IUCN II)","South-west","Gidget Mirrabelle","Levi Peters",NA,NA,"Biota","Seagrasses","Strap-like leaves",NA,NA,NA,NA,NA,"Cymodoceaceae","Thalassodendron","spp"
+"2023-03_SwC_stereo-BRUVs","21","80300904",0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Biota","Macroalgae","Erect coarse branching","Brown",NA,NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs","21","80300905",0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Biota","Macroalgae","Erect coarse branching","Green",NA,NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs","21","80300906",0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Biota","Macroalgae","Erect coarse branching","Red",NA,NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs","21","80300908",0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Biota","Macroalgae","Erect fine branching","Brown",NA,NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs","21","80300909",0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Biota","Macroalgae","Erect fine branching","Green",NA,NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs","21","80300910",8,"21",-34.06438333,114.857485,"2023-03-18T10:34:59+08:00",NA,NA,"No-take","42.3","Yes","Yes","National Park Zone (IUCN II)","South-west","Gidget Mirrabelle","Levi Peters",NA,NA,"Biota","Macroalgae","Erect fine branching","Red",NA,NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs","21","80300931",0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Biota","Macroalgae","Filamentous / filiform","Brown",NA,NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs","21","80300933",1,"21",-34.06438333,114.857485,"2023-03-18T10:34:59+08:00",NA,NA,"No-take","42.3","Yes","Yes","National Park Zone (IUCN II)","South-west","Gidget Mirrabelle","Levi Peters",NA,NA,"Biota","Macroalgae","Filamentous / filiform","Red",NA,NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs","21","82001002",0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Physical","Substrate","Consolidated (hard)","Rock",NA,NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs","21","82001011",0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Physical","Substrate","Unconsolidated (soft)","Pebble / gravel","Gravel (2-10mm)",NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs","21","82001012",0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Physical","Substrate","Unconsolidated (soft)","Pebble / gravel","Pebble (10-64mm)",NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs","21","82001014",7,"21",-34.06438333,114.857485,"2023-03-18T10:34:59+08:00",NA,NA,"No-take","42.3","Yes","Yes","National Park Zone (IUCN II)","South-west","Gidget Mirrabelle","Levi Peters",NA,NA,"Physical","Substrate","Unconsolidated (soft)","Sand / mud (<2mm)","Coarse sand (with shell fragments)",NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs","21",NA,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs","22","00000002",8,"22",-34.110025,114.7779333,"2023-03-18T13:10:35+08:00",NA,NA,"No-take","78","Yes","Yes","National Park Zone (IUCN II)","South-west","Levi Peters","Gidget Mirrabelle",NA,NA,"Biota","Sessile invertebrates",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs","22","10000904",0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Biota","Sponges","Massive forms","Simple",NA,NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs","22","10000905",0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Biota","Sponges","Massive forms","Balls",NA,NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs","22","10000907",0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Biota","Sponges","Cup-likes","Barrels",NA,NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs","22","10000913",0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Biota","Sponges","Erect forms","Laminar",NA,NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs","22","10000915",2,"22",-34.110025,114.7779333,"2023-03-18T13:10:35+08:00",NA,NA,"No-take","78","Yes","Yes","National Park Zone (IUCN II)","South-west","Levi Peters","Gidget Mirrabelle",NA,NA,"Biota","Sponges","Erect forms","Branching",NA,NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs","22","10000918",1,"22",-34.110025,114.7779333,"2023-03-18T13:10:35+08:00",NA,NA,"No-take","78","Yes","Yes","National Park Zone (IUCN II)","South-west","Levi Peters","Gidget Mirrabelle",NA,NA,"Biota","Sponges","Cup-likes","Cups","Incomplete cup / curled fan",NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs","22","11001000",0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Biota","Cnidaria","Hydroids",NA,NA,NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs","22","11168902",0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Biota","Cnidaria","Corals","Black & Octocorals","Branching (3D)",NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs","22","11168912",1,"22",-34.110025,114.7779333,"2023-03-18T13:10:35+08:00",NA,NA,"No-take","78","Yes","Yes","National Park Zone (IUCN II)","South-west","Levi Peters","Gidget Mirrabelle",NA,NA,"Biota","Cnidaria","Corals","Black & Octocorals","Fan (2D)",NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs","22","20000903",0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Biota","Bryozoa","Hard","Fenestrate",NA,NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs","22","20000907",3,"22",-34.110025,114.7779333,"2023-03-18T13:10:35+08:00",NA,NA,"No-take","78","Yes","Yes","National Park Zone (IUCN II)","South-west","Levi Peters","Gidget Mirrabelle",NA,NA,"Biota","Bryozoa","Soft","Foliaceous",NA,NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs","22","54079009",0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Biota","Macroalgae","Large canopy-forming","Brown",NA,NA,NA,NA,"Lessoniaceae","Ecklonia","radiata"
+"2023-03_SwC_stereo-BRUVs","22","63618905",0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Biota","Seagrasses","Strap-like leaves",NA,NA,NA,NA,NA,"Cymodoceaceae","Thalassodendron","spp"
+"2023-03_SwC_stereo-BRUVs","22","80300904",0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Biota","Macroalgae","Erect coarse branching","Brown",NA,NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs","22","80300905",0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Biota","Macroalgae","Erect coarse branching","Green",NA,NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs","22","80300906",0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Biota","Macroalgae","Erect coarse branching","Red",NA,NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs","22","80300908",0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Biota","Macroalgae","Erect fine branching","Brown",NA,NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs","22","80300909",0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Biota","Macroalgae","Erect fine branching","Green",NA,NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs","22","80300910",0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Biota","Macroalgae","Erect fine branching","Red",NA,NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs","22","80300931",0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Biota","Macroalgae","Filamentous / filiform","Brown",NA,NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs","22","80300933",0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Biota","Macroalgae","Filamentous / filiform","Red",NA,NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs","22","82001002",0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Physical","Substrate","Consolidated (hard)","Rock",NA,NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs","22","82001011",0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Physical","Substrate","Unconsolidated (soft)","Pebble / gravel","Gravel (2-10mm)",NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs","22","82001012",0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Physical","Substrate","Unconsolidated (soft)","Pebble / gravel","Pebble (10-64mm)",NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs","22","82001014",1,"22",-34.110025,114.7779333,"2023-03-18T13:10:35+08:00",NA,NA,"No-take","78","Yes","Yes","National Park Zone (IUCN II)","South-west","Levi Peters","Gidget Mirrabelle",NA,NA,"Physical","Substrate","Unconsolidated (soft)","Sand / mud (<2mm)","Coarse sand (with shell fragments)",NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs","22",NA,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs","23","00000002",0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Biota","Sessile invertebrates",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs","23","10000904",0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Biota","Sponges","Massive forms","Simple",NA,NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs","23","10000905",0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Biota","Sponges","Massive forms","Balls",NA,NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs","23","10000907",0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Biota","Sponges","Cup-likes","Barrels",NA,NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs","23","10000913",0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Biota","Sponges","Erect forms","Laminar",NA,NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs","23","10000915",0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Biota","Sponges","Erect forms","Branching",NA,NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs","23","10000918",0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Biota","Sponges","Cup-likes","Cups","Incomplete cup / curled fan",NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs","23","11001000",0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Biota","Cnidaria","Hydroids",NA,NA,NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs","23","11168902",0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Biota","Cnidaria","Corals","Black & Octocorals","Branching (3D)",NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs","23","11168912",0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Biota","Cnidaria","Corals","Black & Octocorals","Fan (2D)",NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs","23","20000903",0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Biota","Bryozoa","Hard","Fenestrate",NA,NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs","23","20000907",0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Biota","Bryozoa","Soft","Foliaceous",NA,NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs","23","54079009",0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Biota","Macroalgae","Large canopy-forming","Brown",NA,NA,NA,NA,"Lessoniaceae","Ecklonia","radiata"
+"2023-03_SwC_stereo-BRUVs","23","63618905",11,"23",-34.12832333,114.9189517,"2023-03-15T8:01:12+08:00",NA,NA,"No-take","41","Yes","Yes","National Park Zone (IUCN II)","South-west","Gidget Mirrabelle","Hannah Williams",NA,NA,"Biota","Seagrasses","Strap-like leaves",NA,NA,NA,NA,NA,"Cymodoceaceae","Thalassodendron","spp"
+"2023-03_SwC_stereo-BRUVs","23","80300904",0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Biota","Macroalgae","Erect coarse branching","Brown",NA,NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs","23","80300905",0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Biota","Macroalgae","Erect coarse branching","Green",NA,NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs","23","80300906",1,"23",-34.12832333,114.9189517,"2023-03-15T8:01:12+08:00",NA,NA,"No-take","41","Yes","Yes","National Park Zone (IUCN II)","South-west","Gidget Mirrabelle","Hannah Williams",NA,NA,"Biota","Macroalgae","Erect coarse branching","Red",NA,NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs","23","80300908",0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Biota","Macroalgae","Erect fine branching","Brown",NA,NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs","23","80300909",0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Biota","Macroalgae","Erect fine branching","Green",NA,NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs","23","80300910",0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Biota","Macroalgae","Erect fine branching","Red",NA,NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs","23","80300931",0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Biota","Macroalgae","Filamentous / filiform","Brown",NA,NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs","23","80300933",0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Biota","Macroalgae","Filamentous / filiform","Red",NA,NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs","23","82001002",0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Physical","Substrate","Consolidated (hard)","Rock",NA,NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs","23","82001011",0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Physical","Substrate","Unconsolidated (soft)","Pebble / gravel","Gravel (2-10mm)",NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs","23","82001012",0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Physical","Substrate","Unconsolidated (soft)","Pebble / gravel","Pebble (10-64mm)",NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs","23","82001014",0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Physical","Substrate","Unconsolidated (soft)","Sand / mud (<2mm)","Coarse sand (with shell fragments)",NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs","23",NA,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs","24","00000002",0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Biota","Sessile invertebrates",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs","24","10000904",1,"24",-34.11788833,114.8485467,"2023-03-15T10:39:03+08:00",NA,NA,"No-take","45.6","Yes","Yes","National Park Zone (IUCN II)","South-west","Daniel Agnello","Gidget Mirrabelle",NA,NA,"Biota","Sponges","Massive forms","Simple",NA,NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs","24","10000905",0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Biota","Sponges","Massive forms","Balls",NA,NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs","24","10000907",0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Biota","Sponges","Cup-likes","Barrels",NA,NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs","24","10000913",0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Biota","Sponges","Erect forms","Laminar",NA,NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs","24","10000915",0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Biota","Sponges","Erect forms","Branching",NA,NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs","24","10000918",0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Biota","Sponges","Cup-likes","Cups","Incomplete cup / curled fan",NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs","24","11001000",0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Biota","Cnidaria","Hydroids",NA,NA,NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs","24","11168902",0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Biota","Cnidaria","Corals","Black & Octocorals","Branching (3D)",NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs","24","11168912",0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Biota","Cnidaria","Corals","Black & Octocorals","Fan (2D)",NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs","24","20000903",0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Biota","Bryozoa","Hard","Fenestrate",NA,NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs","24","20000907",0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Biota","Bryozoa","Soft","Foliaceous",NA,NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs","24","54079009",3,"24",-34.11788833,114.8485467,"2023-03-15T10:39:03+08:00",NA,NA,"No-take","45.6","Yes","Yes","National Park Zone (IUCN II)","South-west","Daniel Agnello","Gidget Mirrabelle",NA,NA,"Biota","Macroalgae","Large canopy-forming","Brown",NA,NA,NA,NA,"Lessoniaceae","Ecklonia","radiata"
+"2023-03_SwC_stereo-BRUVs","24","63618905",5,"24",-34.11788833,114.8485467,"2023-03-15T10:39:03+08:00",NA,NA,"No-take","45.6","Yes","Yes","National Park Zone (IUCN II)","South-west","Daniel Agnello","Gidget Mirrabelle",NA,NA,"Biota","Seagrasses","Strap-like leaves",NA,NA,NA,NA,NA,"Cymodoceaceae","Thalassodendron","spp"
+"2023-03_SwC_stereo-BRUVs","24","80300904",1,"24",-34.11788833,114.8485467,"2023-03-15T10:39:03+08:00",NA,NA,"No-take","45.6","Yes","Yes","National Park Zone (IUCN II)","South-west","Daniel Agnello","Gidget Mirrabelle",NA,NA,"Biota","Macroalgae","Erect coarse branching","Brown",NA,NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs","24","80300905",0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Biota","Macroalgae","Erect coarse branching","Green",NA,NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs","24","80300906",1,"24",-34.11788833,114.8485467,"2023-03-15T10:39:03+08:00",NA,NA,"No-take","45.6","Yes","Yes","National Park Zone (IUCN II)","South-west","Daniel Agnello","Gidget Mirrabelle",NA,NA,"Biota","Macroalgae","Erect coarse branching","Red",NA,NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs","24","80300908",0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Biota","Macroalgae","Erect fine branching","Brown",NA,NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs","24","80300909",0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Biota","Macroalgae","Erect fine branching","Green",NA,NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs","24","80300910",0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Biota","Macroalgae","Erect fine branching","Red",NA,NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs","24","80300931",0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Biota","Macroalgae","Filamentous / filiform","Brown",NA,NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs","24","80300933",0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Biota","Macroalgae","Filamentous / filiform","Red",NA,NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs","24","82001002",0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Physical","Substrate","Consolidated (hard)","Rock",NA,NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs","24","82001011",0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Physical","Substrate","Unconsolidated (soft)","Pebble / gravel","Gravel (2-10mm)",NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs","24","82001012",0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Physical","Substrate","Unconsolidated (soft)","Pebble / gravel","Pebble (10-64mm)",NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs","24","82001014",0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Physical","Substrate","Unconsolidated (soft)","Sand / mud (<2mm)","Coarse sand (with shell fragments)",NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs","24",NA,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs","26","00000002",0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Biota","Sessile invertebrates",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs","26","10000904",0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Biota","Sponges","Massive forms","Simple",NA,NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs","26","10000905",0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Biota","Sponges","Massive forms","Balls",NA,NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs","26","10000907",0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Biota","Sponges","Cup-likes","Barrels",NA,NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs","26","10000913",0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Biota","Sponges","Erect forms","Laminar",NA,NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs","26","10000915",0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Biota","Sponges","Erect forms","Branching",NA,NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs","26","10000918",0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Biota","Sponges","Cup-likes","Cups","Incomplete cup / curled fan",NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs","26","11001000",0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Biota","Cnidaria","Hydroids",NA,NA,NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs","26","11168902",0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Biota","Cnidaria","Corals","Black & Octocorals","Branching (3D)",NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs","26","11168912",0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Biota","Cnidaria","Corals","Black & Octocorals","Fan (2D)",NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs","26","20000903",0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Biota","Bryozoa","Hard","Fenestrate",NA,NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs","26","20000907",0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Biota","Bryozoa","Soft","Foliaceous",NA,NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs","26","54079009",11,"26",-34.12729,114.92843,"2023-03-15T7:54:35+08:00",NA,NA,"No-take","36","Yes","Yes","National Park Zone (IUCN II)","South-west","Gidget Mirrabelle","Hannah Williams",NA,NA,"Biota","Macroalgae","Large canopy-forming","Brown",NA,NA,NA,NA,"Lessoniaceae","Ecklonia","radiata"
+"2023-03_SwC_stereo-BRUVs","26","63618905",8,"26",-34.12729,114.92843,"2023-03-15T7:54:35+08:00",NA,NA,"No-take","36","Yes","Yes","National Park Zone (IUCN II)","South-west","Gidget Mirrabelle","Hannah Williams",NA,NA,"Biota","Seagrasses","Strap-like leaves",NA,NA,NA,NA,NA,"Cymodoceaceae","Thalassodendron","spp"
+"2023-03_SwC_stereo-BRUVs","26","80300904",0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Biota","Macroalgae","Erect coarse branching","Brown",NA,NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs","26","80300905",0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Biota","Macroalgae","Erect coarse branching","Green",NA,NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs","26","80300906",0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Biota","Macroalgae","Erect coarse branching","Red",NA,NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs","26","80300908",0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Biota","Macroalgae","Erect fine branching","Brown",NA,NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs","26","80300909",0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Biota","Macroalgae","Erect fine branching","Green",NA,NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs","26","80300910",0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Biota","Macroalgae","Erect fine branching","Red",NA,NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs","26","80300931",0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Biota","Macroalgae","Filamentous / filiform","Brown",NA,NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs","26","80300933",0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Biota","Macroalgae","Filamentous / filiform","Red",NA,NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs","26","82001002",0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Physical","Substrate","Consolidated (hard)","Rock",NA,NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs","26","82001011",0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Physical","Substrate","Unconsolidated (soft)","Pebble / gravel","Gravel (2-10mm)",NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs","26","82001012",0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Physical","Substrate","Unconsolidated (soft)","Pebble / gravel","Pebble (10-64mm)",NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs","26","82001014",0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Physical","Substrate","Unconsolidated (soft)","Sand / mud (<2mm)","Coarse sand (with shell fragments)",NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs","26",NA,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs","29","00000002",0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Biota","Sessile invertebrates",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs","29","10000904",0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Biota","Sponges","Massive forms","Simple",NA,NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs","29","10000905",0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Biota","Sponges","Massive forms","Balls",NA,NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs","29","10000907",0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Biota","Sponges","Cup-likes","Barrels",NA,NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs","29","10000913",0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Biota","Sponges","Erect forms","Laminar",NA,NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs","29","10000915",0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Biota","Sponges","Erect forms","Branching",NA,NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs","29","10000918",0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Biota","Sponges","Cup-likes","Cups","Incomplete cup / curled fan",NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs","29","11001000",0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Biota","Cnidaria","Hydroids",NA,NA,NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs","29","11168902",0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Biota","Cnidaria","Corals","Black & Octocorals","Branching (3D)",NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs","29","11168912",0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Biota","Cnidaria","Corals","Black & Octocorals","Fan (2D)",NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs","29","20000903",0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Biota","Bryozoa","Hard","Fenestrate",NA,NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs","29","20000907",0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Biota","Bryozoa","Soft","Foliaceous",NA,NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs","29","54079009",2,"29",-34.12295667,114.9105167,"2023-03-15T8:07:51+08:00",NA,NA,"No-take","42.6","Yes","Yes","National Park Zone (IUCN II)","South-west","Levi Peters","Gidget Mirrabelle",NA,NA,"Biota","Macroalgae","Large canopy-forming","Brown",NA,NA,NA,NA,"Lessoniaceae","Ecklonia","radiata"
+"2023-03_SwC_stereo-BRUVs","29","63618905",13,"29",-34.12295667,114.9105167,"2023-03-15T8:07:51+08:00",NA,NA,"No-take","42.6","Yes","Yes","National Park Zone (IUCN II)","South-west","Levi Peters","Gidget Mirrabelle",NA,NA,"Biota","Seagrasses","Strap-like leaves",NA,NA,NA,NA,NA,"Cymodoceaceae","Thalassodendron","spp"
+"2023-03_SwC_stereo-BRUVs","29","80300904",0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Biota","Macroalgae","Erect coarse branching","Brown",NA,NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs","29","80300905",0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Biota","Macroalgae","Erect coarse branching","Green",NA,NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs","29","80300906",0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Biota","Macroalgae","Erect coarse branching","Red",NA,NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs","29","80300908",0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Biota","Macroalgae","Erect fine branching","Brown",NA,NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs","29","80300909",0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Biota","Macroalgae","Erect fine branching","Green",NA,NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs","29","80300910",1,"29",-34.12295667,114.9105167,"2023-03-15T8:07:51+08:00",NA,NA,"No-take","42.6","Yes","Yes","National Park Zone (IUCN II)","South-west","Levi Peters","Gidget Mirrabelle",NA,NA,"Biota","Macroalgae","Erect fine branching","Red",NA,NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs","29","80300931",0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Biota","Macroalgae","Filamentous / filiform","Brown",NA,NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs","29","80300933",0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Biota","Macroalgae","Filamentous / filiform","Red",NA,NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs","29","82001002",0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Physical","Substrate","Consolidated (hard)","Rock",NA,NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs","29","82001011",0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Physical","Substrate","Unconsolidated (soft)","Pebble / gravel","Gravel (2-10mm)",NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs","29","82001012",0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Physical","Substrate","Unconsolidated (soft)","Pebble / gravel","Pebble (10-64mm)",NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs","29","82001014",0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Physical","Substrate","Unconsolidated (soft)","Sand / mud (<2mm)","Coarse sand (with shell fragments)",NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs","29",NA,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs","3","00000002",0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Biota","Sessile invertebrates",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs","3","10000904",0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Biota","Sponges","Massive forms","Simple",NA,NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs","3","10000905",0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Biota","Sponges","Massive forms","Balls",NA,NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs","3","10000907",0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Biota","Sponges","Cup-likes","Barrels",NA,NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs","3","10000913",0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Biota","Sponges","Erect forms","Laminar",NA,NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs","3","10000915",0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Biota","Sponges","Erect forms","Branching",NA,NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs","3","10000918",0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Biota","Sponges","Cup-likes","Cups","Incomplete cup / curled fan",NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs","3","11001000",0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Biota","Cnidaria","Hydroids",NA,NA,NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs","3","11168902",0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Biota","Cnidaria","Corals","Black & Octocorals","Branching (3D)",NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs","3","11168912",0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Biota","Cnidaria","Corals","Black & Octocorals","Fan (2D)",NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs","3","20000903",0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Biota","Bryozoa","Hard","Fenestrate",NA,NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs","3","20000907",0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Biota","Bryozoa","Soft","Foliaceous",NA,NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs","3","54079009",0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Biota","Macroalgae","Large canopy-forming","Brown",NA,NA,NA,NA,"Lessoniaceae","Ecklonia","radiata"
+"2023-03_SwC_stereo-BRUVs","3","63618905",0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Biota","Seagrasses","Strap-like leaves",NA,NA,NA,NA,NA,"Cymodoceaceae","Thalassodendron","spp"
+"2023-03_SwC_stereo-BRUVs","3","80300904",0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Biota","Macroalgae","Erect coarse branching","Brown",NA,NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs","3","80300905",0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Biota","Macroalgae","Erect coarse branching","Green",NA,NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs","3","80300906",0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Biota","Macroalgae","Erect coarse branching","Red",NA,NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs","3","80300908",1,"3",-34.10734167,114.9156417,"2023-03-15T9:54:55+08:00",NA,NA,"No-take","46.7","Yes","Yes","National Park Zone (IUCN II)","South-west","Hannah Williams","Gidget Mirrabelle",NA,NA,"Biota","Macroalgae","Erect fine branching","Brown",NA,NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs","3","80300909",0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Biota","Macroalgae","Erect fine branching","Green",NA,NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs","3","80300910",0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Biota","Macroalgae","Erect fine branching","Red",NA,NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs","3","80300931",2,"3",-34.10734167,114.9156417,"2023-03-15T9:54:55+08:00",NA,NA,"No-take","46.7","Yes","Yes","National Park Zone (IUCN II)","South-west","Hannah Williams","Gidget Mirrabelle",NA,NA,"Biota","Macroalgae","Filamentous / filiform","Brown",NA,NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs","3","80300933",0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Biota","Macroalgae","Filamentous / filiform","Red",NA,NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs","3","82001002",0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Physical","Substrate","Consolidated (hard)","Rock",NA,NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs","3","82001011",0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Physical","Substrate","Unconsolidated (soft)","Pebble / gravel","Gravel (2-10mm)",NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs","3","82001012",0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Physical","Substrate","Unconsolidated (soft)","Pebble / gravel","Pebble (10-64mm)",NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs","3","82001014",3,"3",-34.10734167,114.9156417,"2023-03-15T9:54:55+08:00",NA,NA,"No-take","46.7","Yes","Yes","National Park Zone (IUCN II)","South-west","Hannah Williams","Gidget Mirrabelle",NA,NA,"Physical","Substrate","Unconsolidated (soft)","Sand / mud (<2mm)","Coarse sand (with shell fragments)",NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs","3",NA,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs","31","00000002",0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Biota","Sessile invertebrates",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs","31","10000904",0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Biota","Sponges","Massive forms","Simple",NA,NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs","31","10000905",0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Biota","Sponges","Massive forms","Balls",NA,NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs","31","10000907",0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Biota","Sponges","Cup-likes","Barrels",NA,NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs","31","10000913",0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Biota","Sponges","Erect forms","Laminar",NA,NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs","31","10000915",0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Biota","Sponges","Erect forms","Branching",NA,NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs","31","10000918",0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Biota","Sponges","Cup-likes","Cups","Incomplete cup / curled fan",NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs","31","11001000",0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Biota","Cnidaria","Hydroids",NA,NA,NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs","31","11168902",0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Biota","Cnidaria","Corals","Black & Octocorals","Branching (3D)",NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs","31","11168912",0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Biota","Cnidaria","Corals","Black & Octocorals","Fan (2D)",NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs","31","20000903",0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Biota","Bryozoa","Hard","Fenestrate",NA,NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs","31","20000907",0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Biota","Bryozoa","Soft","Foliaceous",NA,NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs","31","54079009",1,"31",-34.11714167,114.7880917,"2023-03-18T12:48:30+08:00",NA,NA,"No-take","66.1","Yes","Yes","National Park Zone (IUCN II)","South-west","Levi Peters","Gidget Mirrabelle",NA,NA,"Biota","Macroalgae","Large canopy-forming","Brown",NA,NA,NA,NA,"Lessoniaceae","Ecklonia","radiata"
+"2023-03_SwC_stereo-BRUVs","31","63618905",0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Biota","Seagrasses","Strap-like leaves",NA,NA,NA,NA,NA,"Cymodoceaceae","Thalassodendron","spp"
+"2023-03_SwC_stereo-BRUVs","31","80300904",0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Biota","Macroalgae","Erect coarse branching","Brown",NA,NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs","31","80300905",8,"31",-34.11714167,114.7880917,"2023-03-18T12:48:30+08:00",NA,NA,"No-take","66.1","Yes","Yes","National Park Zone (IUCN II)","South-west","Levi Peters","Gidget Mirrabelle",NA,NA,"Biota","Macroalgae","Erect coarse branching","Green",NA,NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs","31","80300906",0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Biota","Macroalgae","Erect coarse branching","Red",NA,NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs","31","80300908",0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Biota","Macroalgae","Erect fine branching","Brown",NA,NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs","31","80300909",0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Biota","Macroalgae","Erect fine branching","Green",NA,NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs","31","80300910",1,"31",-34.11714167,114.7880917,"2023-03-18T12:48:30+08:00",NA,NA,"No-take","66.1","Yes","Yes","National Park Zone (IUCN II)","South-west","Levi Peters","Gidget Mirrabelle",NA,NA,"Biota","Macroalgae","Erect fine branching","Red",NA,NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs","31","80300931",0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Biota","Macroalgae","Filamentous / filiform","Brown",NA,NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs","31","80300933",0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Biota","Macroalgae","Filamentous / filiform","Red",NA,NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs","31","82001002",1,"31",-34.11714167,114.7880917,"2023-03-18T12:48:30+08:00",NA,NA,"No-take","66.1","Yes","Yes","National Park Zone (IUCN II)","South-west","Levi Peters","Gidget Mirrabelle",NA,NA,"Physical","Substrate","Consolidated (hard)","Rock",NA,NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs","31","82001011",0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Physical","Substrate","Unconsolidated (soft)","Pebble / gravel","Gravel (2-10mm)",NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs","31","82001012",0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Physical","Substrate","Unconsolidated (soft)","Pebble / gravel","Pebble (10-64mm)",NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs","31","82001014",0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Physical","Substrate","Unconsolidated (soft)","Sand / mud (<2mm)","Coarse sand (with shell fragments)",NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs","31",NA,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs","32","00000002",0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Biota","Sessile invertebrates",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs","32","10000904",0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Biota","Sponges","Massive forms","Simple",NA,NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs","32","10000905",0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Biota","Sponges","Massive forms","Balls",NA,NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs","32","10000907",0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Biota","Sponges","Cup-likes","Barrels",NA,NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs","32","10000913",0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Biota","Sponges","Erect forms","Laminar",NA,NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs","32","10000915",0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Biota","Sponges","Erect forms","Branching",NA,NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs","32","10000918",0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Biota","Sponges","Cup-likes","Cups","Incomplete cup / curled fan",NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs","32","11001000",0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Biota","Cnidaria","Hydroids",NA,NA,NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs","32","11168902",0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Biota","Cnidaria","Corals","Black & Octocorals","Branching (3D)",NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs","32","11168912",0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Biota","Cnidaria","Corals","Black & Octocorals","Fan (2D)",NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs","32","20000903",0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Biota","Bryozoa","Hard","Fenestrate",NA,NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs","32","20000907",0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Biota","Bryozoa","Soft","Foliaceous",NA,NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs","32","54079009",0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Biota","Macroalgae","Large canopy-forming","Brown",NA,NA,NA,NA,"Lessoniaceae","Ecklonia","radiata"
+"2023-03_SwC_stereo-BRUVs","32","63618905",0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Biota","Seagrasses","Strap-like leaves",NA,NA,NA,NA,NA,"Cymodoceaceae","Thalassodendron","spp"
+"2023-03_SwC_stereo-BRUVs","32","80300904",0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Biota","Macroalgae","Erect coarse branching","Brown",NA,NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs","32","80300905",0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Biota","Macroalgae","Erect coarse branching","Green",NA,NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs","32","80300906",0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Biota","Macroalgae","Erect coarse branching","Red",NA,NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs","32","80300908",0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Biota","Macroalgae","Erect fine branching","Brown",NA,NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs","32","80300909",0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Biota","Macroalgae","Erect fine branching","Green",NA,NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs","32","80300910",0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Biota","Macroalgae","Erect fine branching","Red",NA,NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs","32","80300931",0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Biota","Macroalgae","Filamentous / filiform","Brown",NA,NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs","32","80300933",0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Biota","Macroalgae","Filamentous / filiform","Red",NA,NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs","32","82001002",0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Physical","Substrate","Consolidated (hard)","Rock",NA,NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs","32","82001011",0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Physical","Substrate","Unconsolidated (soft)","Pebble / gravel","Gravel (2-10mm)",NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs","32","82001012",0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Physical","Substrate","Unconsolidated (soft)","Pebble / gravel","Pebble (10-64mm)",NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs","32","82001014",5,"32",-34.11019667,114.9283567,"2023-03-15T8:23:19+08:00",NA,NA,"No-take","44.4","Yes","Yes","National Park Zone (IUCN II)","South-west","Daniel Agnello","Levi Peters",NA,NA,"Physical","Substrate","Unconsolidated (soft)","Sand / mud (<2mm)","Coarse sand (with shell fragments)",NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs","32",NA,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs","34","00000002",0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Biota","Sessile invertebrates",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs","34","10000904",0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Biota","Sponges","Massive forms","Simple",NA,NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs","34","10000905",0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Biota","Sponges","Massive forms","Balls",NA,NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs","34","10000907",0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Biota","Sponges","Cup-likes","Barrels",NA,NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs","34","10000913",0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Biota","Sponges","Erect forms","Laminar",NA,NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs","34","10000915",0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Biota","Sponges","Erect forms","Branching",NA,NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs","34","10000918",0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Biota","Sponges","Cup-likes","Cups","Incomplete cup / curled fan",NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs","34","11001000",0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Biota","Cnidaria","Hydroids",NA,NA,NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs","34","11168902",0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Biota","Cnidaria","Corals","Black & Octocorals","Branching (3D)",NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs","34","11168912",0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Biota","Cnidaria","Corals","Black & Octocorals","Fan (2D)",NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs","34","20000903",0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Biota","Bryozoa","Hard","Fenestrate",NA,NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs","34","20000907",0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Biota","Bryozoa","Soft","Foliaceous",NA,NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs","34","54079009",0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Biota","Macroalgae","Large canopy-forming","Brown",NA,NA,NA,NA,"Lessoniaceae","Ecklonia","radiata"
+"2023-03_SwC_stereo-BRUVs","34","63618905",2,"34",-34.098625,114.8905567,"2023-03-18T10:12:23+08:00",NA,NA,"No-take","43.7","Yes","Yes","National Park Zone (IUCN II)","South-west","Gidget Mirrabelle","Levi Peters",NA,NA,"Biota","Seagrasses","Strap-like leaves",NA,NA,NA,NA,NA,"Cymodoceaceae","Thalassodendron","spp"
+"2023-03_SwC_stereo-BRUVs","34","80300904",3,"34",-34.098625,114.8905567,"2023-03-18T10:12:23+08:00",NA,NA,"No-take","43.7","Yes","Yes","National Park Zone (IUCN II)","South-west","Gidget Mirrabelle","Levi Peters",NA,NA,"Biota","Macroalgae","Erect coarse branching","Brown",NA,NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs","34","80300905",1,"34",-34.098625,114.8905567,"2023-03-18T10:12:23+08:00",NA,NA,"No-take","43.7","Yes","Yes","National Park Zone (IUCN II)","South-west","Gidget Mirrabelle","Levi Peters",NA,NA,"Biota","Macroalgae","Erect coarse branching","Green",NA,NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs","34","80300906",0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Biota","Macroalgae","Erect coarse branching","Red",NA,NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs","34","80300908",4,"34",-34.098625,114.8905567,"2023-03-18T10:12:23+08:00",NA,NA,"No-take","43.7","Yes","Yes","National Park Zone (IUCN II)","South-west","Gidget Mirrabelle","Levi Peters",NA,NA,"Biota","Macroalgae","Erect fine branching","Brown",NA,NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs","34","80300909",0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Biota","Macroalgae","Erect fine branching","Green",NA,NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs","34","80300910",0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Biota","Macroalgae","Erect fine branching","Red",NA,NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs","34","80300931",0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Biota","Macroalgae","Filamentous / filiform","Brown",NA,NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs","34","80300933",0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Biota","Macroalgae","Filamentous / filiform","Red",NA,NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs","34","82001002",0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Physical","Substrate","Consolidated (hard)","Rock",NA,NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs","34","82001011",0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Physical","Substrate","Unconsolidated (soft)","Pebble / gravel","Gravel (2-10mm)",NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs","34","82001012",0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Physical","Substrate","Unconsolidated (soft)","Pebble / gravel","Pebble (10-64mm)",NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs","34","82001014",0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Physical","Substrate","Unconsolidated (soft)","Sand / mud (<2mm)","Coarse sand (with shell fragments)",NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs","34",NA,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs","35","00000002",0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Biota","Sessile invertebrates",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs","35","10000904",0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Biota","Sponges","Massive forms","Simple",NA,NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs","35","10000905",0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Biota","Sponges","Massive forms","Balls",NA,NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs","35","10000907",0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Biota","Sponges","Cup-likes","Barrels",NA,NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs","35","10000913",0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Biota","Sponges","Erect forms","Laminar",NA,NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs","35","10000915",0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Biota","Sponges","Erect forms","Branching",NA,NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs","35","10000918",0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Biota","Sponges","Cup-likes","Cups","Incomplete cup / curled fan",NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs","35","11001000",0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Biota","Cnidaria","Hydroids",NA,NA,NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs","35","11168902",0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Biota","Cnidaria","Corals","Black & Octocorals","Branching (3D)",NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs","35","11168912",0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Biota","Cnidaria","Corals","Black & Octocorals","Fan (2D)",NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs","35","20000903",0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Biota","Bryozoa","Hard","Fenestrate",NA,NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs","35","20000907",0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Biota","Bryozoa","Soft","Foliaceous",NA,NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs","35","54079009",17,"35",-34.13155,114.923645,"2023-03-15T7:36:19+08:00",NA,NA,"No-take","39.6","Yes","Yes","National Park Zone (IUCN II)","South-west","Hannah Williams","Gidget Mirrabelle",NA,NA,"Biota","Macroalgae","Large canopy-forming","Brown",NA,NA,NA,NA,"Lessoniaceae","Ecklonia","radiata"
+"2023-03_SwC_stereo-BRUVs","35","63618905",0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Biota","Seagrasses","Strap-like leaves",NA,NA,NA,NA,NA,"Cymodoceaceae","Thalassodendron","spp"
+"2023-03_SwC_stereo-BRUVs","35","80300904",0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Biota","Macroalgae","Erect coarse branching","Brown",NA,NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs","35","80300905",0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Biota","Macroalgae","Erect coarse branching","Green",NA,NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs","35","80300906",0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Biota","Macroalgae","Erect coarse branching","Red",NA,NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs","35","80300908",0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Biota","Macroalgae","Erect fine branching","Brown",NA,NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs","35","80300909",0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Biota","Macroalgae","Erect fine branching","Green",NA,NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs","35","80300910",0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Biota","Macroalgae","Erect fine branching","Red",NA,NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs","35","80300931",0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Biota","Macroalgae","Filamentous / filiform","Brown",NA,NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs","35","80300933",0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Biota","Macroalgae","Filamentous / filiform","Red",NA,NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs","35","82001002",0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Physical","Substrate","Consolidated (hard)","Rock",NA,NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs","35","82001011",0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Physical","Substrate","Unconsolidated (soft)","Pebble / gravel","Gravel (2-10mm)",NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs","35","82001012",0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Physical","Substrate","Unconsolidated (soft)","Pebble / gravel","Pebble (10-64mm)",NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs","35","82001014",0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Physical","Substrate","Unconsolidated (soft)","Sand / mud (<2mm)","Coarse sand (with shell fragments)",NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs","35",NA,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs","36","00000002",0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Biota","Sessile invertebrates",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs","36","10000904",0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Biota","Sponges","Massive forms","Simple",NA,NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs","36","10000905",0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Biota","Sponges","Massive forms","Balls",NA,NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs","36","10000907",0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Biota","Sponges","Cup-likes","Barrels",NA,NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs","36","10000913",0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Biota","Sponges","Erect forms","Laminar",NA,NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs","36","10000915",0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Biota","Sponges","Erect forms","Branching",NA,NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs","36","10000918",0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Biota","Sponges","Cup-likes","Cups","Incomplete cup / curled fan",NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs","36","11001000",0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Biota","Cnidaria","Hydroids",NA,NA,NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs","36","11168902",0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Biota","Cnidaria","Corals","Black & Octocorals","Branching (3D)",NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs","36","11168912",0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Biota","Cnidaria","Corals","Black & Octocorals","Fan (2D)",NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs","36","20000903",0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Biota","Bryozoa","Hard","Fenestrate",NA,NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs","36","20000907",0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Biota","Bryozoa","Soft","Foliaceous",NA,NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs","36","54079009",0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Biota","Macroalgae","Large canopy-forming","Brown",NA,NA,NA,NA,"Lessoniaceae","Ecklonia","radiata"
+"2023-03_SwC_stereo-BRUVs","36","63618905",3,"36",-34.11534667,114.8613383,"2023-03-15T10:45:39+08:00",NA,NA,"No-take","44","Yes","Yes","National Park Zone (IUCN II)","South-west","Daniel Agnello","Gidget Mirrabelle",NA,NA,"Biota","Seagrasses","Strap-like leaves",NA,NA,NA,NA,NA,"Cymodoceaceae","Thalassodendron","spp"
+"2023-03_SwC_stereo-BRUVs","36","80300904",1,"36",-34.11534667,114.8613383,"2023-03-15T10:45:39+08:00",NA,NA,"No-take","44","Yes","Yes","National Park Zone (IUCN II)","South-west","Daniel Agnello","Gidget Mirrabelle",NA,NA,"Biota","Macroalgae","Erect coarse branching","Brown",NA,NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs","36","80300905",0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Biota","Macroalgae","Erect coarse branching","Green",NA,NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs","36","80300906",0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Biota","Macroalgae","Erect coarse branching","Red",NA,NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs","36","80300908",0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Biota","Macroalgae","Erect fine branching","Brown",NA,NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs","36","80300909",0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Biota","Macroalgae","Erect fine branching","Green",NA,NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs","36","80300910",4,"36",-34.11534667,114.8613383,"2023-03-15T10:45:39+08:00",NA,NA,"No-take","44","Yes","Yes","National Park Zone (IUCN II)","South-west","Daniel Agnello","Gidget Mirrabelle",NA,NA,"Biota","Macroalgae","Erect fine branching","Red",NA,NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs","36","80300931",0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Biota","Macroalgae","Filamentous / filiform","Brown",NA,NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs","36","80300933",0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Biota","Macroalgae","Filamentous / filiform","Red",NA,NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs","36","82001002",0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Physical","Substrate","Consolidated (hard)","Rock",NA,NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs","36","82001011",0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Physical","Substrate","Unconsolidated (soft)","Pebble / gravel","Gravel (2-10mm)",NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs","36","82001012",0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Physical","Substrate","Unconsolidated (soft)","Pebble / gravel","Pebble (10-64mm)",NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs","36","82001014",0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Physical","Substrate","Unconsolidated (soft)","Sand / mud (<2mm)","Coarse sand (with shell fragments)",NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs","36",NA,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs","37","00000002",0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Biota","Sessile invertebrates",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs","37","10000904",0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Biota","Sponges","Massive forms","Simple",NA,NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs","37","10000905",0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Biota","Sponges","Massive forms","Balls",NA,NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs","37","10000907",0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Biota","Sponges","Cup-likes","Barrels",NA,NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs","37","10000913",0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Biota","Sponges","Erect forms","Laminar",NA,NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs","37","10000915",0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Biota","Sponges","Erect forms","Branching",NA,NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs","37","10000918",0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Biota","Sponges","Cup-likes","Cups","Incomplete cup / curled fan",NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs","37","11001000",0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Biota","Cnidaria","Hydroids",NA,NA,NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs","37","11168902",0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Biota","Cnidaria","Corals","Black & Octocorals","Branching (3D)",NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs","37","11168912",0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Biota","Cnidaria","Corals","Black & Octocorals","Fan (2D)",NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs","37","20000903",0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Biota","Bryozoa","Hard","Fenestrate",NA,NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs","37","20000907",0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Biota","Bryozoa","Soft","Foliaceous",NA,NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs","37","54079009",0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Biota","Macroalgae","Large canopy-forming","Brown",NA,NA,NA,NA,"Lessoniaceae","Ecklonia","radiata"
+"2023-03_SwC_stereo-BRUVs","37","63618905",0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Biota","Seagrasses","Strap-like leaves",NA,NA,NA,NA,NA,"Cymodoceaceae","Thalassodendron","spp"
+"2023-03_SwC_stereo-BRUVs","37","80300904",0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Biota","Macroalgae","Erect coarse branching","Brown",NA,NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs","37","80300905",0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Biota","Macroalgae","Erect coarse branching","Green",NA,NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs","37","80300906",0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Biota","Macroalgae","Erect coarse branching","Red",NA,NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs","37","80300908",0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Biota","Macroalgae","Erect fine branching","Brown",NA,NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs","37","80300909",0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Biota","Macroalgae","Erect fine branching","Green",NA,NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs","37","80300910",0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Biota","Macroalgae","Erect fine branching","Red",NA,NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs","37","80300931",0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Biota","Macroalgae","Filamentous / filiform","Brown",NA,NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs","37","80300933",0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Biota","Macroalgae","Filamentous / filiform","Red",NA,NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs","37","82001002",0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Physical","Substrate","Consolidated (hard)","Rock",NA,NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs","37","82001011",0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Physical","Substrate","Unconsolidated (soft)","Pebble / gravel","Gravel (2-10mm)",NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs","37","82001012",0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Physical","Substrate","Unconsolidated (soft)","Pebble / gravel","Pebble (10-64mm)",NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs","37","82001014",0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Physical","Substrate","Unconsolidated (soft)","Sand / mud (<2mm)","Coarse sand (with shell fragments)",NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs","37",NA,0,"37",-34.10853667,114.9235817,"2023-03-15T8:28:43+08:00",NA,NA,"No-take","46.1","Yes","Yes","National Park Zone (IUCN II)","South-west","Henry Evans","Joe Burgess-Adams",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs","39","00000002",9,"39",-34.11577,114.7936983,"2023-03-18T12:44:07+08:00",NA,NA,"No-take","64.3","Yes","Yes","National Park Zone (IUCN II)","South-west","Levi Peters","Gidget Mirrabelle",NA,NA,"Biota","Sessile invertebrates",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs","39","10000904",1,"39",-34.11577,114.7936983,"2023-03-18T12:44:07+08:00",NA,NA,"No-take","64.3","Yes","Yes","National Park Zone (IUCN II)","South-west","Levi Peters","Gidget Mirrabelle",NA,NA,"Biota","Sponges","Massive forms","Simple",NA,NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs","39","10000905",0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Biota","Sponges","Massive forms","Balls",NA,NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs","39","10000907",0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Biota","Sponges","Cup-likes","Barrels",NA,NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs","39","10000913",4,"39",-34.11577,114.7936983,"2023-03-18T12:44:07+08:00",NA,NA,"No-take","64.3","Yes","Yes","National Park Zone (IUCN II)","South-west","Levi Peters","Gidget Mirrabelle",NA,NA,"Biota","Sponges","Erect forms","Laminar",NA,NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs","39","10000915",0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Biota","Sponges","Erect forms","Branching",NA,NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs","39","10000918",0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Biota","Sponges","Cup-likes","Cups","Incomplete cup / curled fan",NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs","39","11001000",0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Biota","Cnidaria","Hydroids",NA,NA,NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs","39","11168902",0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Biota","Cnidaria","Corals","Black & Octocorals","Branching (3D)",NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs","39","11168912",0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Biota","Cnidaria","Corals","Black & Octocorals","Fan (2D)",NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs","39","20000903",0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Biota","Bryozoa","Hard","Fenestrate",NA,NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs","39","20000907",2,"39",-34.11577,114.7936983,"2023-03-18T12:44:07+08:00",NA,NA,"No-take","64.3","Yes","Yes","National Park Zone (IUCN II)","South-west","Levi Peters","Gidget Mirrabelle",NA,NA,"Biota","Bryozoa","Soft","Foliaceous",NA,NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs","39","54079009",0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Biota","Macroalgae","Large canopy-forming","Brown",NA,NA,NA,NA,"Lessoniaceae","Ecklonia","radiata"
+"2023-03_SwC_stereo-BRUVs","39","63618905",0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Biota","Seagrasses","Strap-like leaves",NA,NA,NA,NA,NA,"Cymodoceaceae","Thalassodendron","spp"
+"2023-03_SwC_stereo-BRUVs","39","80300904",0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Biota","Macroalgae","Erect coarse branching","Brown",NA,NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs","39","80300905",0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Biota","Macroalgae","Erect coarse branching","Green",NA,NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs","39","80300906",0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Biota","Macroalgae","Erect coarse branching","Red",NA,NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs","39","80300908",0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Biota","Macroalgae","Erect fine branching","Brown",NA,NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs","39","80300909",0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Biota","Macroalgae","Erect fine branching","Green",NA,NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs","39","80300910",0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Biota","Macroalgae","Erect fine branching","Red",NA,NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs","39","80300931",0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Biota","Macroalgae","Filamentous / filiform","Brown",NA,NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs","39","80300933",0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Biota","Macroalgae","Filamentous / filiform","Red",NA,NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs","39","82001002",1,"39",-34.11577,114.7936983,"2023-03-18T12:44:07+08:00",NA,NA,"No-take","64.3","Yes","Yes","National Park Zone (IUCN II)","South-west","Levi Peters","Gidget Mirrabelle",NA,NA,"Physical","Substrate","Consolidated (hard)","Rock",NA,NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs","39","82001011",0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Physical","Substrate","Unconsolidated (soft)","Pebble / gravel","Gravel (2-10mm)",NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs","39","82001012",0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Physical","Substrate","Unconsolidated (soft)","Pebble / gravel","Pebble (10-64mm)",NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs","39","82001014",0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Physical","Substrate","Unconsolidated (soft)","Sand / mud (<2mm)","Coarse sand (with shell fragments)",NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs","39",NA,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs","4","00000002",0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Biota","Sessile invertebrates",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs","4","10000904",0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Biota","Sponges","Massive forms","Simple",NA,NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs","4","10000905",0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Biota","Sponges","Massive forms","Balls",NA,NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs","4","10000907",0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Biota","Sponges","Cup-likes","Barrels",NA,NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs","4","10000913",2,"4",-34.11596667,114.9112217,"2023-03-15T8:14:46+08:00",NA,NA,"No-take","45","Yes","Yes","National Park Zone (IUCN II)","South-west","Gidget Mirrabelle","Levi Peters",NA,NA,"Biota","Sponges","Erect forms","Laminar",NA,NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs","4","10000915",0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Biota","Sponges","Erect forms","Branching",NA,NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs","4","10000918",0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Biota","Sponges","Cup-likes","Cups","Incomplete cup / curled fan",NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs","4","11001000",0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Biota","Cnidaria","Hydroids",NA,NA,NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs","4","11168902",0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Biota","Cnidaria","Corals","Black & Octocorals","Branching (3D)",NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs","4","11168912",0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Biota","Cnidaria","Corals","Black & Octocorals","Fan (2D)",NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs","4","20000903",0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Biota","Bryozoa","Hard","Fenestrate",NA,NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs","4","20000907",0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Biota","Bryozoa","Soft","Foliaceous",NA,NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs","4","54079009",0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Biota","Macroalgae","Large canopy-forming","Brown",NA,NA,NA,NA,"Lessoniaceae","Ecklonia","radiata"
+"2023-03_SwC_stereo-BRUVs","4","63618905",2,"4",-34.11596667,114.9112217,"2023-03-15T8:14:46+08:00",NA,NA,"No-take","45","Yes","Yes","National Park Zone (IUCN II)","South-west","Gidget Mirrabelle","Levi Peters",NA,NA,"Biota","Seagrasses","Strap-like leaves",NA,NA,NA,NA,NA,"Cymodoceaceae","Thalassodendron","spp"
+"2023-03_SwC_stereo-BRUVs","4","80300904",0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Biota","Macroalgae","Erect coarse branching","Brown",NA,NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs","4","80300905",0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Biota","Macroalgae","Erect coarse branching","Green",NA,NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs","4","80300906",2,"4",-34.11596667,114.9112217,"2023-03-15T8:14:46+08:00",NA,NA,"No-take","45","Yes","Yes","National Park Zone (IUCN II)","South-west","Gidget Mirrabelle","Levi Peters",NA,NA,"Biota","Macroalgae","Erect coarse branching","Red",NA,NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs","4","80300908",0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Biota","Macroalgae","Erect fine branching","Brown",NA,NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs","4","80300909",0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Biota","Macroalgae","Erect fine branching","Green",NA,NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs","4","80300910",1,"4",-34.11596667,114.9112217,"2023-03-15T8:14:46+08:00",NA,NA,"No-take","45","Yes","Yes","National Park Zone (IUCN II)","South-west","Gidget Mirrabelle","Levi Peters",NA,NA,"Biota","Macroalgae","Erect fine branching","Red",NA,NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs","4","80300931",0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Biota","Macroalgae","Filamentous / filiform","Brown",NA,NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs","4","80300933",0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Biota","Macroalgae","Filamentous / filiform","Red",NA,NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs","4","82001002",0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Physical","Substrate","Consolidated (hard)","Rock",NA,NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs","4","82001011",0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Physical","Substrate","Unconsolidated (soft)","Pebble / gravel","Gravel (2-10mm)",NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs","4","82001012",0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Physical","Substrate","Unconsolidated (soft)","Pebble / gravel","Pebble (10-64mm)",NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs","4","82001014",0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Physical","Substrate","Unconsolidated (soft)","Sand / mud (<2mm)","Coarse sand (with shell fragments)",NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs","4",NA,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs","40","00000002",0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Biota","Sessile invertebrates",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs","40","10000904",0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Biota","Sponges","Massive forms","Simple",NA,NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs","40","10000905",0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Biota","Sponges","Massive forms","Balls",NA,NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs","40","10000907",0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Biota","Sponges","Cup-likes","Barrels",NA,NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs","40","10000913",1,"40",-34.08805667,114.8886967,"2023-03-18T10:18:44+08:00",NA,NA,"No-take","43.7","Yes","Yes","National Park Zone (IUCN II)","South-west","Gidget Mirrabelle","Levi Peters",NA,NA,"Biota","Sponges","Erect forms","Laminar",NA,NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs","40","10000915",0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Biota","Sponges","Erect forms","Branching",NA,NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs","40","10000918",0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Biota","Sponges","Cup-likes","Cups","Incomplete cup / curled fan",NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs","40","11001000",0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Biota","Cnidaria","Hydroids",NA,NA,NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs","40","11168902",0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Biota","Cnidaria","Corals","Black & Octocorals","Branching (3D)",NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs","40","11168912",0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Biota","Cnidaria","Corals","Black & Octocorals","Fan (2D)",NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs","40","20000903",0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Biota","Bryozoa","Hard","Fenestrate",NA,NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs","40","20000907",0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Biota","Bryozoa","Soft","Foliaceous",NA,NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs","40","54079009",1,"40",-34.08805667,114.8886967,"2023-03-18T10:18:44+08:00",NA,NA,"No-take","43.7","Yes","Yes","National Park Zone (IUCN II)","South-west","Gidget Mirrabelle","Levi Peters",NA,NA,"Biota","Macroalgae","Large canopy-forming","Brown",NA,NA,NA,NA,"Lessoniaceae","Ecklonia","radiata"
+"2023-03_SwC_stereo-BRUVs","40","63618905",5,"40",-34.08805667,114.8886967,"2023-03-18T10:18:44+08:00",NA,NA,"No-take","43.7","Yes","Yes","National Park Zone (IUCN II)","South-west","Gidget Mirrabelle","Levi Peters",NA,NA,"Biota","Seagrasses","Strap-like leaves",NA,NA,NA,NA,NA,"Cymodoceaceae","Thalassodendron","spp"
+"2023-03_SwC_stereo-BRUVs","40","80300904",1,"40",-34.08805667,114.8886967,"2023-03-18T10:18:44+08:00",NA,NA,"No-take","43.7","Yes","Yes","National Park Zone (IUCN II)","South-west","Gidget Mirrabelle","Levi Peters",NA,NA,"Biota","Macroalgae","Erect coarse branching","Brown",NA,NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs","40","80300905",0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Biota","Macroalgae","Erect coarse branching","Green",NA,NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs","40","80300906",0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Biota","Macroalgae","Erect coarse branching","Red",NA,NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs","40","80300908",0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Biota","Macroalgae","Erect fine branching","Brown",NA,NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs","40","80300909",0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Biota","Macroalgae","Erect fine branching","Green",NA,NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs","40","80300910",0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Biota","Macroalgae","Erect fine branching","Red",NA,NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs","40","80300931",3,"40",-34.08805667,114.8886967,"2023-03-18T10:18:44+08:00",NA,NA,"No-take","43.7","Yes","Yes","National Park Zone (IUCN II)","South-west","Gidget Mirrabelle","Levi Peters",NA,NA,"Biota","Macroalgae","Filamentous / filiform","Brown",NA,NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs","40","80300933",0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Biota","Macroalgae","Filamentous / filiform","Red",NA,NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs","40","82001002",0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Physical","Substrate","Consolidated (hard)","Rock",NA,NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs","40","82001011",0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Physical","Substrate","Unconsolidated (soft)","Pebble / gravel","Gravel (2-10mm)",NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs","40","82001012",0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Physical","Substrate","Unconsolidated (soft)","Pebble / gravel","Pebble (10-64mm)",NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs","40","82001014",4,"40",-34.08805667,114.8886967,"2023-03-18T10:18:44+08:00",NA,NA,"No-take","43.7","Yes","Yes","National Park Zone (IUCN II)","South-west","Gidget Mirrabelle","Levi Peters",NA,NA,"Physical","Substrate","Unconsolidated (soft)","Sand / mud (<2mm)","Coarse sand (with shell fragments)",NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs","40",NA,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs","44","00000002",0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Biota","Sessile invertebrates",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs","44","10000904",0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Biota","Sponges","Massive forms","Simple",NA,NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs","44","10000905",0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Biota","Sponges","Massive forms","Balls",NA,NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs","44","10000907",0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Biota","Sponges","Cup-likes","Barrels",NA,NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs","44","10000913",0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Biota","Sponges","Erect forms","Laminar",NA,NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs","44","10000915",0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Biota","Sponges","Erect forms","Branching",NA,NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs","44","10000918",0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Biota","Sponges","Cup-likes","Cups","Incomplete cup / curled fan",NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs","44","11001000",0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Biota","Cnidaria","Hydroids",NA,NA,NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs","44","11168902",0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Biota","Cnidaria","Corals","Black & Octocorals","Branching (3D)",NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs","44","11168912",0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Biota","Cnidaria","Corals","Black & Octocorals","Fan (2D)",NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs","44","20000903",0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Biota","Bryozoa","Hard","Fenestrate",NA,NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs","44","20000907",0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Biota","Bryozoa","Soft","Foliaceous",NA,NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs","44","54079009",0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Biota","Macroalgae","Large canopy-forming","Brown",NA,NA,NA,NA,"Lessoniaceae","Ecklonia","radiata"
+"2023-03_SwC_stereo-BRUVs","44","63618905",2,"44",-34.11804833,114.8597567,"2023-03-15T10:31:56+08:00",NA,NA,"No-take","44.1","Yes","Yes","National Park Zone (IUCN II)","South-west","Gidget Mirrabelle","Levi Peters",NA,NA,"Biota","Seagrasses","Strap-like leaves",NA,NA,NA,NA,NA,"Cymodoceaceae","Thalassodendron","spp"
+"2023-03_SwC_stereo-BRUVs","44","80300904",3,"44",-34.11804833,114.8597567,"2023-03-15T10:31:56+08:00",NA,NA,"No-take","44.1","Yes","Yes","National Park Zone (IUCN II)","South-west","Gidget Mirrabelle","Levi Peters",NA,NA,"Biota","Macroalgae","Erect coarse branching","Brown",NA,NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs","44","80300905",4,"44",-34.11804833,114.8597567,"2023-03-15T10:31:56+08:00",NA,NA,"No-take","44.1","Yes","Yes","National Park Zone (IUCN II)","South-west","Gidget Mirrabelle","Levi Peters",NA,NA,"Biota","Macroalgae","Erect coarse branching","Green",NA,NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs","44","80300906",3,"44",-34.11804833,114.8597567,"2023-03-15T10:31:56+08:00",NA,NA,"No-take","44.1","Yes","Yes","National Park Zone (IUCN II)","South-west","Gidget Mirrabelle","Levi Peters",NA,NA,"Biota","Macroalgae","Erect coarse branching","Red",NA,NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs","44","80300908",0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Biota","Macroalgae","Erect fine branching","Brown",NA,NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs","44","80300909",0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Biota","Macroalgae","Erect fine branching","Green",NA,NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs","44","80300910",0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Biota","Macroalgae","Erect fine branching","Red",NA,NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs","44","80300931",0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Biota","Macroalgae","Filamentous / filiform","Brown",NA,NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs","44","80300933",0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Biota","Macroalgae","Filamentous / filiform","Red",NA,NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs","44","82001002",0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Physical","Substrate","Consolidated (hard)","Rock",NA,NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs","44","82001011",0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Physical","Substrate","Unconsolidated (soft)","Pebble / gravel","Gravel (2-10mm)",NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs","44","82001012",0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Physical","Substrate","Unconsolidated (soft)","Pebble / gravel","Pebble (10-64mm)",NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs","44","82001014",0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Physical","Substrate","Unconsolidated (soft)","Sand / mud (<2mm)","Coarse sand (with shell fragments)",NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs","44",NA,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs","45","00000002",0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Biota","Sessile invertebrates",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs","45","10000904",0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Biota","Sponges","Massive forms","Simple",NA,NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs","45","10000905",0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Biota","Sponges","Massive forms","Balls",NA,NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs","45","10000907",0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Biota","Sponges","Cup-likes","Barrels",NA,NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs","45","10000913",0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Biota","Sponges","Erect forms","Laminar",NA,NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs","45","10000915",0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Biota","Sponges","Erect forms","Branching",NA,NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs","45","10000918",0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Biota","Sponges","Cup-likes","Cups","Incomplete cup / curled fan",NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs","45","11001000",0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Biota","Cnidaria","Hydroids",NA,NA,NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs","45","11168902",0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Biota","Cnidaria","Corals","Black & Octocorals","Branching (3D)",NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs","45","11168912",0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Biota","Cnidaria","Corals","Black & Octocorals","Fan (2D)",NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs","45","20000903",0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Biota","Bryozoa","Hard","Fenestrate",NA,NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs","45","20000907",0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Biota","Bryozoa","Soft","Foliaceous",NA,NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs","45","54079009",0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Biota","Macroalgae","Large canopy-forming","Brown",NA,NA,NA,NA,"Lessoniaceae","Ecklonia","radiata"
+"2023-03_SwC_stereo-BRUVs","45","63618905",0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Biota","Seagrasses","Strap-like leaves",NA,NA,NA,NA,NA,"Cymodoceaceae","Thalassodendron","spp"
+"2023-03_SwC_stereo-BRUVs","45","80300904",0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Biota","Macroalgae","Erect coarse branching","Brown",NA,NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs","45","80300905",0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Biota","Macroalgae","Erect coarse branching","Green",NA,NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs","45","80300906",0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Biota","Macroalgae","Erect coarse branching","Red",NA,NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs","45","80300908",0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Biota","Macroalgae","Erect fine branching","Brown",NA,NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs","45","80300909",0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Biota","Macroalgae","Erect fine branching","Green",NA,NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs","45","80300910",0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Biota","Macroalgae","Erect fine branching","Red",NA,NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs","45","80300931",0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Biota","Macroalgae","Filamentous / filiform","Brown",NA,NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs","45","80300933",0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Biota","Macroalgae","Filamentous / filiform","Red",NA,NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs","45","82001002",0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Physical","Substrate","Consolidated (hard)","Rock",NA,NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs","45","82001011",0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Physical","Substrate","Unconsolidated (soft)","Pebble / gravel","Gravel (2-10mm)",NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs","45","82001012",0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Physical","Substrate","Unconsolidated (soft)","Pebble / gravel","Pebble (10-64mm)",NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs","45","82001014",0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Physical","Substrate","Unconsolidated (soft)","Sand / mud (<2mm)","Coarse sand (with shell fragments)",NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs","45",NA,0,"45",-34.10723,114.7893333,"2023-03-18T13:31:40+08:00",NA,NA,"No-take","61.9","Yes","Yes","National Park Zone (IUCN II)","South-west","Henry Evans","Sharnae Watson",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs","46","00000002",0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Biota","Sessile invertebrates",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs","46","10000904",0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Biota","Sponges","Massive forms","Simple",NA,NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs","46","10000905",0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Biota","Sponges","Massive forms","Balls",NA,NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs","46","10000907",0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Biota","Sponges","Cup-likes","Barrels",NA,NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs","46","10000913",0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Biota","Sponges","Erect forms","Laminar",NA,NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs","46","10000915",0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Biota","Sponges","Erect forms","Branching",NA,NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs","46","10000918",0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Biota","Sponges","Cup-likes","Cups","Incomplete cup / curled fan",NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs","46","11001000",0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Biota","Cnidaria","Hydroids",NA,NA,NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs","46","11168902",0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Biota","Cnidaria","Corals","Black & Octocorals","Branching (3D)",NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs","46","11168912",0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Biota","Cnidaria","Corals","Black & Octocorals","Fan (2D)",NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs","46","20000903",0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Biota","Bryozoa","Hard","Fenestrate",NA,NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs","46","20000907",0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Biota","Bryozoa","Soft","Foliaceous",NA,NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs","46","54079009",0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Biota","Macroalgae","Large canopy-forming","Brown",NA,NA,NA,NA,"Lessoniaceae","Ecklonia","radiata"
+"2023-03_SwC_stereo-BRUVs","46","63618905",7,"46",-34.09568833,114.83982,"2023-03-18T11:01:41+08:00",NA,NA,"No-take","46.3","Yes","Yes","National Park Zone (IUCN II)","South-west","Levi Peters","Gidget Mirrabelle",NA,NA,"Biota","Seagrasses","Strap-like leaves",NA,NA,NA,NA,NA,"Cymodoceaceae","Thalassodendron","spp"
+"2023-03_SwC_stereo-BRUVs","46","80300904",6,"46",-34.09568833,114.83982,"2023-03-18T11:01:41+08:00",NA,NA,"No-take","46.3","Yes","Yes","National Park Zone (IUCN II)","South-west","Levi Peters","Gidget Mirrabelle",NA,NA,"Biota","Macroalgae","Erect coarse branching","Brown",NA,NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs","46","80300905",0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Biota","Macroalgae","Erect coarse branching","Green",NA,NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs","46","80300906",1,"46",-34.09568833,114.83982,"2023-03-18T11:01:41+08:00",NA,NA,"No-take","46.3","Yes","Yes","National Park Zone (IUCN II)","South-west","Levi Peters","Gidget Mirrabelle",NA,NA,"Biota","Macroalgae","Erect coarse branching","Red",NA,NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs","46","80300908",0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Biota","Macroalgae","Erect fine branching","Brown",NA,NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs","46","80300909",0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Biota","Macroalgae","Erect fine branching","Green",NA,NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs","46","80300910",6,"46",-34.09568833,114.83982,"2023-03-18T11:01:41+08:00",NA,NA,"No-take","46.3","Yes","Yes","National Park Zone (IUCN II)","South-west","Levi Peters","Gidget Mirrabelle",NA,NA,"Biota","Macroalgae","Erect fine branching","Red",NA,NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs","46","80300931",0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Biota","Macroalgae","Filamentous / filiform","Brown",NA,NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs","46","80300933",0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Biota","Macroalgae","Filamentous / filiform","Red",NA,NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs","46","82001002",0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Physical","Substrate","Consolidated (hard)","Rock",NA,NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs","46","82001011",0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Physical","Substrate","Unconsolidated (soft)","Pebble / gravel","Gravel (2-10mm)",NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs","46","82001012",0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Physical","Substrate","Unconsolidated (soft)","Pebble / gravel","Pebble (10-64mm)",NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs","46","82001014",0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Physical","Substrate","Unconsolidated (soft)","Sand / mud (<2mm)","Coarse sand (with shell fragments)",NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs","46",NA,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs","47","00000002",11,"47",-34.11413167,114.7804383,"2023-03-18T13:05:50+08:00",NA,NA,"No-take","73","Yes","Yes","National Park Zone (IUCN II)","South-west","Levi Peters","Gidget Mirrabelle",NA,NA,"Biota","Sessile invertebrates",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs","47","10000904",0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Biota","Sponges","Massive forms","Simple",NA,NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs","47","10000905",0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Biota","Sponges","Massive forms","Balls",NA,NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs","47","10000907",0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Biota","Sponges","Cup-likes","Barrels",NA,NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs","47","10000913",1,"47",-34.11413167,114.7804383,"2023-03-18T13:05:50+08:00",NA,NA,"No-take","73","Yes","Yes","National Park Zone (IUCN II)","South-west","Levi Peters","Gidget Mirrabelle",NA,NA,"Biota","Sponges","Erect forms","Laminar",NA,NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs","47","10000915",0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Biota","Sponges","Erect forms","Branching",NA,NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs","47","10000918",0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Biota","Sponges","Cup-likes","Cups","Incomplete cup / curled fan",NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs","47","11001000",1,"47",-34.11413167,114.7804383,"2023-03-18T13:05:50+08:00",NA,NA,"No-take","73","Yes","Yes","National Park Zone (IUCN II)","South-west","Levi Peters","Gidget Mirrabelle",NA,NA,"Biota","Cnidaria","Hydroids",NA,NA,NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs","47","11168902",2,"47",-34.11413167,114.7804383,"2023-03-18T13:05:50+08:00",NA,NA,"No-take","73","Yes","Yes","National Park Zone (IUCN II)","South-west","Levi Peters","Gidget Mirrabelle",NA,NA,"Biota","Cnidaria","Corals","Black & Octocorals","Branching (3D)",NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs","47","11168912",0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Biota","Cnidaria","Corals","Black & Octocorals","Fan (2D)",NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs","47","20000903",0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Biota","Bryozoa","Hard","Fenestrate",NA,NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs","47","20000907",1,"47",-34.11413167,114.7804383,"2023-03-18T13:05:50+08:00",NA,NA,"No-take","73","Yes","Yes","National Park Zone (IUCN II)","South-west","Levi Peters","Gidget Mirrabelle",NA,NA,"Biota","Bryozoa","Soft","Foliaceous",NA,NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs","47","54079009",0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Biota","Macroalgae","Large canopy-forming","Brown",NA,NA,NA,NA,"Lessoniaceae","Ecklonia","radiata"
+"2023-03_SwC_stereo-BRUVs","47","63618905",0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Biota","Seagrasses","Strap-like leaves",NA,NA,NA,NA,NA,"Cymodoceaceae","Thalassodendron","spp"
+"2023-03_SwC_stereo-BRUVs","47","80300904",0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Biota","Macroalgae","Erect coarse branching","Brown",NA,NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs","47","80300905",0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Biota","Macroalgae","Erect coarse branching","Green",NA,NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs","47","80300906",0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Biota","Macroalgae","Erect coarse branching","Red",NA,NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs","47","80300908",0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Biota","Macroalgae","Erect fine branching","Brown",NA,NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs","47","80300909",0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Biota","Macroalgae","Erect fine branching","Green",NA,NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs","47","80300910",0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Biota","Macroalgae","Erect fine branching","Red",NA,NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs","47","80300931",0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Biota","Macroalgae","Filamentous / filiform","Brown",NA,NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs","47","80300933",0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Biota","Macroalgae","Filamentous / filiform","Red",NA,NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs","47","82001002",0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Physical","Substrate","Consolidated (hard)","Rock",NA,NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs","47","82001011",0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Physical","Substrate","Unconsolidated (soft)","Pebble / gravel","Gravel (2-10mm)",NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs","47","82001012",0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Physical","Substrate","Unconsolidated (soft)","Pebble / gravel","Pebble (10-64mm)",NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs","47","82001014",0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Physical","Substrate","Unconsolidated (soft)","Sand / mud (<2mm)","Coarse sand (with shell fragments)",NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs","47",NA,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs","5","00000002",0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Biota","Sessile invertebrates",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs","5","10000904",0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Biota","Sponges","Massive forms","Simple",NA,NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs","5","10000905",0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Biota","Sponges","Massive forms","Balls",NA,NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs","5","10000907",0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Biota","Sponges","Cup-likes","Barrels",NA,NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs","5","10000913",0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Biota","Sponges","Erect forms","Laminar",NA,NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs","5","10000915",0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Biota","Sponges","Erect forms","Branching",NA,NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs","5","10000918",0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Biota","Sponges","Cup-likes","Cups","Incomplete cup / curled fan",NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs","5","11001000",0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Biota","Cnidaria","Hydroids",NA,NA,NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs","5","11168902",0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Biota","Cnidaria","Corals","Black & Octocorals","Branching (3D)",NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs","5","11168912",0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Biota","Cnidaria","Corals","Black & Octocorals","Fan (2D)",NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs","5","20000903",0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Biota","Bryozoa","Hard","Fenestrate",NA,NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs","5","20000907",0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Biota","Bryozoa","Soft","Foliaceous",NA,NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs","5","54079009",8,"5",-34.12952667,114.9292367,"2023-03-15T7:49:41+08:00",NA,NA,"No-take","42.7","Yes","Yes","National Park Zone (IUCN II)","South-west","Hannah Williams","Gidget Mirrabelle",NA,NA,"Biota","Macroalgae","Large canopy-forming","Brown",NA,NA,NA,NA,"Lessoniaceae","Ecklonia","radiata"
+"2023-03_SwC_stereo-BRUVs","5","63618905",4,"5",-34.12952667,114.9292367,"2023-03-15T7:49:41+08:00",NA,NA,"No-take","42.7","Yes","Yes","National Park Zone (IUCN II)","South-west","Hannah Williams","Gidget Mirrabelle",NA,NA,"Biota","Seagrasses","Strap-like leaves",NA,NA,NA,NA,NA,"Cymodoceaceae","Thalassodendron","spp"
+"2023-03_SwC_stereo-BRUVs","5","80300904",0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Biota","Macroalgae","Erect coarse branching","Brown",NA,NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs","5","80300905",2,"5",-34.12952667,114.9292367,"2023-03-15T7:49:41+08:00",NA,NA,"No-take","42.7","Yes","Yes","National Park Zone (IUCN II)","South-west","Hannah Williams","Gidget Mirrabelle",NA,NA,"Biota","Macroalgae","Erect coarse branching","Green",NA,NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs","5","80300906",0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Biota","Macroalgae","Erect coarse branching","Red",NA,NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs","5","80300908",0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Biota","Macroalgae","Erect fine branching","Brown",NA,NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs","5","80300909",0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Biota","Macroalgae","Erect fine branching","Green",NA,NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs","5","80300910",3,"5",-34.12952667,114.9292367,"2023-03-15T7:49:41+08:00",NA,NA,"No-take","42.7","Yes","Yes","National Park Zone (IUCN II)","South-west","Hannah Williams","Gidget Mirrabelle",NA,NA,"Biota","Macroalgae","Erect fine branching","Red",NA,NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs","5","80300931",0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Biota","Macroalgae","Filamentous / filiform","Brown",NA,NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs","5","80300933",0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Biota","Macroalgae","Filamentous / filiform","Red",NA,NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs","5","82001002",0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Physical","Substrate","Consolidated (hard)","Rock",NA,NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs","5","82001011",0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Physical","Substrate","Unconsolidated (soft)","Pebble / gravel","Gravel (2-10mm)",NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs","5","82001012",0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Physical","Substrate","Unconsolidated (soft)","Pebble / gravel","Pebble (10-64mm)",NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs","5","82001014",0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Physical","Substrate","Unconsolidated (soft)","Sand / mud (<2mm)","Coarse sand (with shell fragments)",NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs","5",NA,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs","6","00000002",9,"6",-34.097395,114.7766617,"2023-03-18T13:17:26+08:00",NA,NA,"No-take","71.3","Yes","Yes","National Park Zone (IUCN II)","South-west","Levi Peters","Gidget Mirrabelle",NA,NA,"Biota","Sessile invertebrates",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs","6","10000904",3,"6",-34.097395,114.7766617,"2023-03-18T13:17:26+08:00",NA,NA,"No-take","71.3","Yes","Yes","National Park Zone (IUCN II)","South-west","Levi Peters","Gidget Mirrabelle",NA,NA,"Biota","Sponges","Massive forms","Simple",NA,NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs","6","10000905",0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Biota","Sponges","Massive forms","Balls",NA,NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs","6","10000907",0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Biota","Sponges","Cup-likes","Barrels",NA,NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs","6","10000913",0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Biota","Sponges","Erect forms","Laminar",NA,NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs","6","10000915",0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Biota","Sponges","Erect forms","Branching",NA,NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs","6","10000918",0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Biota","Sponges","Cup-likes","Cups","Incomplete cup / curled fan",NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs","6","11001000",0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Biota","Cnidaria","Hydroids",NA,NA,NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs","6","11168902",1,"6",-34.097395,114.7766617,"2023-03-18T13:17:26+08:00",NA,NA,"No-take","71.3","Yes","Yes","National Park Zone (IUCN II)","South-west","Levi Peters","Gidget Mirrabelle",NA,NA,"Biota","Cnidaria","Corals","Black & Octocorals","Branching (3D)",NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs","6","11168912",0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Biota","Cnidaria","Corals","Black & Octocorals","Fan (2D)",NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs","6","20000903",0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Biota","Bryozoa","Hard","Fenestrate",NA,NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs","6","20000907",1,"6",-34.097395,114.7766617,"2023-03-18T13:17:26+08:00",NA,NA,"No-take","71.3","Yes","Yes","National Park Zone (IUCN II)","South-west","Levi Peters","Gidget Mirrabelle",NA,NA,"Biota","Bryozoa","Soft","Foliaceous",NA,NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs","6","54079009",0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Biota","Macroalgae","Large canopy-forming","Brown",NA,NA,NA,NA,"Lessoniaceae","Ecklonia","radiata"
+"2023-03_SwC_stereo-BRUVs","6","63618905",0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Biota","Seagrasses","Strap-like leaves",NA,NA,NA,NA,NA,"Cymodoceaceae","Thalassodendron","spp"
+"2023-03_SwC_stereo-BRUVs","6","80300904",0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Biota","Macroalgae","Erect coarse branching","Brown",NA,NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs","6","80300905",0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Biota","Macroalgae","Erect coarse branching","Green",NA,NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs","6","80300906",0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Biota","Macroalgae","Erect coarse branching","Red",NA,NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs","6","80300908",0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Biota","Macroalgae","Erect fine branching","Brown",NA,NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs","6","80300909",0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Biota","Macroalgae","Erect fine branching","Green",NA,NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs","6","80300910",0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Biota","Macroalgae","Erect fine branching","Red",NA,NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs","6","80300931",0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Biota","Macroalgae","Filamentous / filiform","Brown",NA,NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs","6","80300933",0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Biota","Macroalgae","Filamentous / filiform","Red",NA,NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs","6","82001002",1,"6",-34.097395,114.7766617,"2023-03-18T13:17:26+08:00",NA,NA,"No-take","71.3","Yes","Yes","National Park Zone (IUCN II)","South-west","Levi Peters","Gidget Mirrabelle",NA,NA,"Physical","Substrate","Consolidated (hard)","Rock",NA,NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs","6","82001011",2,"6",-34.097395,114.7766617,"2023-03-18T13:17:26+08:00",NA,NA,"No-take","71.3","Yes","Yes","National Park Zone (IUCN II)","South-west","Levi Peters","Gidget Mirrabelle",NA,NA,"Physical","Substrate","Unconsolidated (soft)","Pebble / gravel","Gravel (2-10mm)",NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs","6","82001012",0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Physical","Substrate","Unconsolidated (soft)","Pebble / gravel","Pebble (10-64mm)",NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs","6","82001014",0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Physical","Substrate","Unconsolidated (soft)","Sand / mud (<2mm)","Coarse sand (with shell fragments)",NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs","6",NA,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs","7","00000002",8,"7",-34.09623,114.7854017,"2023-03-18T13:24:27+08:00",NA,NA,"No-take","62.7","Yes","Yes","National Park Zone (IUCN II)","South-west","Levi Peters","Gidget Mirrabelle",NA,NA,"Biota","Sessile invertebrates",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs","7","10000904",0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Biota","Sponges","Massive forms","Simple",NA,NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs","7","10000905",0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Biota","Sponges","Massive forms","Balls",NA,NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs","7","10000907",0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Biota","Sponges","Cup-likes","Barrels",NA,NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs","7","10000913",0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Biota","Sponges","Erect forms","Laminar",NA,NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs","7","10000915",0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Biota","Sponges","Erect forms","Branching",NA,NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs","7","10000918",0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Biota","Sponges","Cup-likes","Cups","Incomplete cup / curled fan",NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs","7","11001000",3,"7",-34.09623,114.7854017,"2023-03-18T13:24:27+08:00",NA,NA,"No-take","62.7","Yes","Yes","National Park Zone (IUCN II)","South-west","Levi Peters","Gidget Mirrabelle",NA,NA,"Biota","Cnidaria","Hydroids",NA,NA,NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs","7","11168902",0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Biota","Cnidaria","Corals","Black & Octocorals","Branching (3D)",NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs","7","11168912",0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Biota","Cnidaria","Corals","Black & Octocorals","Fan (2D)",NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs","7","20000903",2,"7",-34.09623,114.7854017,"2023-03-18T13:24:27+08:00",NA,NA,"No-take","62.7","Yes","Yes","National Park Zone (IUCN II)","South-west","Levi Peters","Gidget Mirrabelle",NA,NA,"Biota","Bryozoa","Hard","Fenestrate",NA,NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs","7","20000907",0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Biota","Bryozoa","Soft","Foliaceous",NA,NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs","7","54079009",0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Biota","Macroalgae","Large canopy-forming","Brown",NA,NA,NA,NA,"Lessoniaceae","Ecklonia","radiata"
+"2023-03_SwC_stereo-BRUVs","7","63618905",0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Biota","Seagrasses","Strap-like leaves",NA,NA,NA,NA,NA,"Cymodoceaceae","Thalassodendron","spp"
+"2023-03_SwC_stereo-BRUVs","7","80300904",0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Biota","Macroalgae","Erect coarse branching","Brown",NA,NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs","7","80300905",0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Biota","Macroalgae","Erect coarse branching","Green",NA,NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs","7","80300906",0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Biota","Macroalgae","Erect coarse branching","Red",NA,NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs","7","80300908",0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Biota","Macroalgae","Erect fine branching","Brown",NA,NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs","7","80300909",4,"7",-34.09623,114.7854017,"2023-03-18T13:24:27+08:00",NA,NA,"No-take","62.7","Yes","Yes","National Park Zone (IUCN II)","South-west","Levi Peters","Gidget Mirrabelle",NA,NA,"Biota","Macroalgae","Erect fine branching","Green",NA,NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs","7","80300910",0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Biota","Macroalgae","Erect fine branching","Red",NA,NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs","7","80300931",0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Biota","Macroalgae","Filamentous / filiform","Brown",NA,NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs","7","80300933",0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Biota","Macroalgae","Filamentous / filiform","Red",NA,NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs","7","82001002",0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Physical","Substrate","Consolidated (hard)","Rock",NA,NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs","7","82001011",0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Physical","Substrate","Unconsolidated (soft)","Pebble / gravel","Gravel (2-10mm)",NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs","7","82001012",0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Physical","Substrate","Unconsolidated (soft)","Pebble / gravel","Pebble (10-64mm)",NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs","7","82001014",0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Physical","Substrate","Unconsolidated (soft)","Sand / mud (<2mm)","Coarse sand (with shell fragments)",NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs","7",NA,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs","8","00000002",0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Biota","Sessile invertebrates",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs","8","10000904",0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Biota","Sponges","Massive forms","Simple",NA,NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs","8","10000905",0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Biota","Sponges","Massive forms","Balls",NA,NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs","8","10000907",0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Biota","Sponges","Cup-likes","Barrels",NA,NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs","8","10000913",0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Biota","Sponges","Erect forms","Laminar",NA,NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs","8","10000915",0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Biota","Sponges","Erect forms","Branching",NA,NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs","8","10000918",0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Biota","Sponges","Cup-likes","Cups","Incomplete cup / curled fan",NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs","8","11001000",0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Biota","Cnidaria","Hydroids",NA,NA,NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs","8","11168902",0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Biota","Cnidaria","Corals","Black & Octocorals","Branching (3D)",NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs","8","11168912",0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Biota","Cnidaria","Corals","Black & Octocorals","Fan (2D)",NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs","8","20000903",0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Biota","Bryozoa","Hard","Fenestrate",NA,NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs","8","20000907",0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Biota","Bryozoa","Soft","Foliaceous",NA,NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs","8","54079009",0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Biota","Macroalgae","Large canopy-forming","Brown",NA,NA,NA,NA,"Lessoniaceae","Ecklonia","radiata"
+"2023-03_SwC_stereo-BRUVs","8","63618905",8,"8",-34.090365,114.838835,"2023-03-18T10:56:29+08:00",NA,NA,"No-take","47.2","Yes","Yes","National Park Zone (IUCN II)","South-west","Levi Peters","Gidget Mirrabelle",NA,NA,"Biota","Seagrasses","Strap-like leaves",NA,NA,NA,NA,NA,"Cymodoceaceae","Thalassodendron","spp"
+"2023-03_SwC_stereo-BRUVs","8","80300904",5,"8",-34.090365,114.838835,"2023-03-18T10:56:29+08:00",NA,NA,"No-take","47.2","Yes","Yes","National Park Zone (IUCN II)","South-west","Levi Peters","Gidget Mirrabelle",NA,NA,"Biota","Macroalgae","Erect coarse branching","Brown",NA,NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs","8","80300905",0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Biota","Macroalgae","Erect coarse branching","Green",NA,NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs","8","80300906",0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Biota","Macroalgae","Erect coarse branching","Red",NA,NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs","8","80300908",0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Biota","Macroalgae","Erect fine branching","Brown",NA,NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs","8","80300909",0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Biota","Macroalgae","Erect fine branching","Green",NA,NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs","8","80300910",1,"8",-34.090365,114.838835,"2023-03-18T10:56:29+08:00",NA,NA,"No-take","47.2","Yes","Yes","National Park Zone (IUCN II)","South-west","Levi Peters","Gidget Mirrabelle",NA,NA,"Biota","Macroalgae","Erect fine branching","Red",NA,NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs","8","80300931",0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Biota","Macroalgae","Filamentous / filiform","Brown",NA,NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs","8","80300933",0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Biota","Macroalgae","Filamentous / filiform","Red",NA,NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs","8","82001002",0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Physical","Substrate","Consolidated (hard)","Rock",NA,NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs","8","82001011",0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Physical","Substrate","Unconsolidated (soft)","Pebble / gravel","Gravel (2-10mm)",NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs","8","82001012",0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Physical","Substrate","Unconsolidated (soft)","Pebble / gravel","Pebble (10-64mm)",NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs","8","82001014",0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Physical","Substrate","Unconsolidated (soft)","Sand / mud (<2mm)","Coarse sand (with shell fragments)",NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs","8",NA,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs",NA,"00000002",0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Biota","Sessile invertebrates",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs",NA,"10000904",0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Biota","Sponges","Massive forms","Simple",NA,NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs",NA,"10000905",1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Biota","Sponges","Massive forms","Balls",NA,NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs",NA,"10000907",0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Biota","Sponges","Cup-likes","Barrels",NA,NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs",NA,"10000913",0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Biota","Sponges","Erect forms","Laminar",NA,NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs",NA,"10000915",0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Biota","Sponges","Erect forms","Branching",NA,NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs",NA,"10000918",0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Biota","Sponges","Cup-likes","Cups","Incomplete cup / curled fan",NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs",NA,"11001000",0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Biota","Cnidaria","Hydroids",NA,NA,NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs",NA,"11168902",0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Biota","Cnidaria","Corals","Black & Octocorals","Branching (3D)",NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs",NA,"11168912",0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Biota","Cnidaria","Corals","Black & Octocorals","Fan (2D)",NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs",NA,"20000903",0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Biota","Bryozoa","Hard","Fenestrate",NA,NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs",NA,"20000907",0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Biota","Bryozoa","Soft","Foliaceous",NA,NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs",NA,"54079009",0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Biota","Macroalgae","Large canopy-forming","Brown",NA,NA,NA,NA,"Lessoniaceae","Ecklonia","radiata"
+"2023-03_SwC_stereo-BRUVs",NA,"63618905",1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Biota","Seagrasses","Strap-like leaves",NA,NA,NA,NA,NA,"Cymodoceaceae","Thalassodendron","spp"
+"2023-03_SwC_stereo-BRUVs",NA,"80300904",0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Biota","Macroalgae","Erect coarse branching","Brown",NA,NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs",NA,"80300905",0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Biota","Macroalgae","Erect coarse branching","Green",NA,NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs",NA,"80300906",3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Biota","Macroalgae","Erect coarse branching","Red",NA,NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs",NA,"80300908",0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Biota","Macroalgae","Erect fine branching","Brown",NA,NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs",NA,"80300909",4,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Biota","Macroalgae","Erect fine branching","Green",NA,NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs",NA,"80300910",0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Biota","Macroalgae","Erect fine branching","Red",NA,NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs",NA,"80300931",0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Biota","Macroalgae","Filamentous / filiform","Brown",NA,NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs",NA,"80300933",0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Biota","Macroalgae","Filamentous / filiform","Red",NA,NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs",NA,"82001002",0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Physical","Substrate","Consolidated (hard)","Rock",NA,NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs",NA,"82001011",0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Physical","Substrate","Unconsolidated (soft)","Pebble / gravel","Gravel (2-10mm)",NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs",NA,"82001012",1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Physical","Substrate","Unconsolidated (soft)","Pebble / gravel","Pebble (10-64mm)",NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs",NA,"82001014",16,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Physical","Substrate","Unconsolidated (soft)","Sand / mud (<2mm)","Coarse sand (with shell fragments)",NA,NA,NA,NA,NA,NA
+"2023-03_SwC_stereo-BRUVs",NA,NA,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
