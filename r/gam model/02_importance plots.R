@@ -32,12 +32,6 @@ dat.taxa <- dat %>%
                                   .default = NA)) %>%
   glimpse()
 
-# colour ramps-
-re <- colorRampPalette(c("blue3", "white","red2"))(200)
-
-# Labels-
-legend_title <- "Importance"
-
 ggplot(dat.taxa, aes(x = predictor, y = resp.var, fill = importance)) +
   geom_tile(show.legend = T) +
   scale_fill_gradient(low = "white", high = "red2", limits = c(0, 1), name = "Importance") +
@@ -45,4 +39,4 @@ ggplot(dat.taxa, aes(x = predictor, y = resp.var, fill = importance)) +
   theme_classic()
 
 #save output - changed dimensions for larger text in report
-ggsave(paste0("figures/fish/", name, "_importance-scores.png"),height = 4, width = 6.275, res = 300)
+ggsave(paste0("figures/fish/", name, "_importance-scores.png"), height = 4, width = 6.275, res = 300)

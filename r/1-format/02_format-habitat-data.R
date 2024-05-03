@@ -18,28 +18,31 @@ library(tidyverse)
 # Set your working directory to the project's directory
 setwd(here::here())
 
-name <- "test-data/post-checkem/2023-03_SwC_stereo-BRUVs"
+name <- "2024_Albany_stereo-BRUVs"
 
 # Load and format habitat data
-habitat <- read.csv(paste0("data/raw/", name, "_benthos.csv")) %>%
-  # dplyr::filter(successful_count %in% "Yes") %>%
-  dplyr::mutate(broad_habitat = case_when(level_2 %in% c("Sponges", "Seagrasses", "Macroalgae", 
-                                                         "Sessile invertebrates", "Cnidaria", "Bryozoa") ~ level_2,
-                                          level_2 %in% "Substrate" ~ level_3)) %>%
-  dplyr::filter(!is.na(level_2)) %>%
-  group_by(campaignid, sample, broad_habitat) %>%
-  summarise(number = sum(number)) %>%
-  ungroup() %>%
-  pivot_wider(names_from = broad_habitat, values_from = number) %>%
+habitat <- read.delim("data/raw/habitat/Annotation_1_Dot Point Measurements.txt", 
+                      skip = 4, stringsAsFactors = F, colClasses = "character") %>%
   clean_names() %>%
+  dplyr::select(campaignid, opcode, broad) %>%
+  dplyr::filter(!broad %in% c("Unknown", NA, "")) %>%
+  dplyr::mutate(number = 1) %>%
+  group_by(campaignid, opcode, broad) %>%
+  summarise(number = sum(number)) %>%
+  pivot_wider(names_from = "broad", values_from = "number", values_fill = 0) %>%
+  ungroup() %>%
   glimpse()
 
 # Load and format the relief data
-relief <- read.csv(paste0("data/raw/", name, "_relief.csv")) %>%
-  uncount(number) %>%
-  dplyr::group_by(campaignid, sample) %>%
-  summarise(mean_relief = mean(level_5, na.rm = T),
-            sd_relief = sd(level_5, na.rm = T)) %>%
+relief <- read.delim("data/raw/habitat/Relief_Dot Point Measurements.txt", 
+                     skip = 4, stringsAsFactors = F, colClasses = "character") %>%
+  clean_names() %>%
+  dplyr::select(campaignid, opcode, level_5) %>%
+  dplyr::filter(!level_5 %in% c(NA, "")) %>%
+  dplyr::mutate(level_5 = as.numeric(level_5)) %>%
+  group_by(campaignid, opcode) %>%
+  summarise(mean_relief = sum(level_5),
+            sd_relief = sd(level_5)) %>%
   ungroup() %>%
   glimpse()
 

@@ -1,8 +1,8 @@
 Dot Point Measurements
 
-Generated: Friday 03 May 2024 07:30:54
+Generated: Friday 03 May 2024 09:39:40
 
-Filename	Frame	Time (mins)	Image row	Image col	Date	Location	Site #	Transect #	Latitude	Longitude	Rugosity	Depth	Collector	Fishing status	campaignid	relief_annotated	OpCode	Period	Frame info 3	Frame info 4	Frame info 5	Frame info 6	level_2	level_3	level_4	level_5	scientific	qualifiers	CAAB_code		Radius %
+Filename	Frame	Time (mins)	Image row	Image col	Date	Location	Site #	Transect #	Latitude	Longitude	Rugosity	Depth	Collector	Fishing status	campaignid	relief_annotated	OpCode	Period	Frame info 3	Frame info 4	Frame info 5	Frame info 6	BROAD	MORPHOLOGY	TYPE	RELIEF	CODE				Radius %
 100_1_01_L1207_MAH00040.MP4_0002720.jpg	      0		828	836											2024_Albany_stereo-BRUVs	no	100	1					Unconsolidated	Sand	mud (coarse sand)		82001014				4.8
 100_1_01_L1207_MAH00040.MP4_0002720.jpg	      0		743	995											2024_Albany_stereo-BRUVs	no	100	1					Unconsolidated	Sand	mud (coarse sand)		82001014				15.4
 100_1_01_L1207_MAH00040.MP4_0002720.jpg	      0		574	1701											2024_Albany_stereo-BRUVs	no	100	1					Unknown								92.7
