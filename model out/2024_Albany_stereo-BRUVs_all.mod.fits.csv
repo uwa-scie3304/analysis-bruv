@@ -1,0 +1,12 @@
+"","response","formula","AICc","BIC","r2.vals","r2.vals.unique","edf","edf.less.1","delta.AICc","delta.BIC","wi.AICc","wi.BIC","distance_from_access","Unconsolidated","Macroalgae","Seagrasses","depth_m","mean_relief","sd_relief","cumsum.wi"
+"sd_relief+Unconsolidated...1","Immature KGW","s(sd_relief, k = 3, bs = ""cr"") + s(Unconsolidated, k = 3, bs = ""cr"")",94.9726494597072,105.208904247428,0.13771,NA,3.26,0,0,0.594,0.139,0.125,0,1,0,0,0,0,1,0.139
+"Unconsolidated...2","Immature KGW","s(Unconsolidated, k = 3, bs = ""cr"")",95.6469650276995,105.040041986697,0.09454,NA,2.8,0,0.674,0.425,0.099,0.136,0,1,0,0,0,0,0,0.238
+"depth_m+Unconsolidated...3","Immature KGW","s(depth_m, k = 3, bs = ""cr"") + s(Unconsolidated, k = 3, bs = ""cr"")",96.0445522753127,108.593372701702,0.1313,NA,4.62,0,1.072,3.979,0.081,0.023,0,1,0,0,1,0,0,0.319
+"Macroalgae+sd_relief","Immature KGW","s(Macroalgae, k = 3, bs = ""cr"") + s(sd_relief, k = 3, bs = ""cr"")",96.1882784537164,105.651981259214,0.09246,NA,3,0,1.216,1.037,0.075,0.1,0,0,1,0,0,0,1,0.394
+"depth_m+sd_relief+Unconsolidated","Immature KGW","s(depth_m, k = 3, bs = ""cr"") + s(sd_relief, k = 3, bs = ""cr"") + s(Unconsolidated, k = 3, bs = ""cr"")",96.8247486763131,110.533002715435,0.15891,NA,5.27,0,1.852,5.918,0.055,0.009,0,1,0,0,1,0,1,0.449
+"depth_m+distance_from_access+Unconsolidated","Legal KGW","s(depth_m, k = 3, bs = ""cr"") + s(distance_from_access, k = 3, bs = ""cr"") + s(Unconsolidated, k = 3, bs = ""cr"")",69.4977905719069,83.4827032335175,0.08016,NA,5.59,0,0,6.482,0.125,0.013,1,1,0,0,1,0,0,0.125
+"depth_m+Unconsolidated...7","Legal KGW","s(depth_m, k = 3, bs = ""cr"") + s(Unconsolidated, k = 3, bs = ""cr"")",69.7828439769767,82.2985808847909,0.05213,NA,4.57,0,0.285,5.298,0.109,0.023,0,1,0,0,1,0,0,0.234
+"Unconsolidated...8","Legal KGW","s(Unconsolidated, k = 3, bs = ""cr"")",70.8017084460849,80.121313483999,0.04269,NA,2.71,0,1.304,3.121,0.065,0.069,0,1,0,0,0,0,0,0.299
+"Macroalgae","Legal KGW","s(Macroalgae, k = 3, bs = ""cr"")",70.8044592409604,78.534062182609,0.0256,NA,2,0,1.307,1.534,0.065,0.152,0,0,1,0,0,0,0,0.364
+"null","Legal KGW","1",71.0889533472031,77.0005223081441,0,NA,1,0,1.591,0,0.056,0.328,0,0,0,0,0,0,0,0.42
+"sd_relief+Unconsolidated...11","Sublegal KGW","s(sd_relief, k = 3, bs = ""cr"") + s(Unconsolidated, k = 3, bs = ""cr"")",87.0486713712748,97.2570253959104,0.15511,NA,3.26,0,0,0,0.289,0.28,0,1,0,0,0,0,1,0.289

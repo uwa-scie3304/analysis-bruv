@@ -26,7 +26,7 @@ setwd(here::here())
 name <- "2024_Albany_stereo-BRUVs"
 
 # Load the count data
-count <- read.csv(paste0("data/raw/", name, "_count.csv")) %>%
+count <- read.csv(paste0("data/raw/fish/", name, "_count.csv")) %>%
   dplyr::filter(successful_count %in% "Yes") %>%
   mutate(scientific = paste(genus, species, sep = " ")) %>%
   glimpse()
@@ -39,8 +39,10 @@ top_species <- count %>%
   glimpse()
 
 # Plot the most abundant species using ggplot
-ggplot(data = top_species, aes(x = reorder(scientific, sum_maxn), y = sum_maxn)) +
-  geom_bar(stat = "identity", colour = "black", fill = "lightgrey", position = position_dodge()) +
+ggplot(data = top_species, aes(x = reorder(scientific, sum_maxn), 
+                               y = sum_maxn)) +
+  geom_bar(stat = "identity", colour = "black", fill = "lightgrey", 
+           position = position_dodge()) +
   coord_flip() +
   labs(x = expression(Overall~abundance~(Sigma~MaxN)), y = "Species") +
   theme_classic()
@@ -69,7 +71,7 @@ maturity_mean <- maturity %>%
   glimpse()
 
 # Load length annotation data and join with size of maturity dataset
-length <- read.csv(paste0("data/raw/", name, "_length.csv")) %>%
+length <- read.csv(paste0("data/raw/fish/", name, "_length.csv")) %>%
   dplyr::filter(successful_length %in% "Yes") %>%
   mutate(scientific = paste(genus, species, sep = " ")) %>%
   left_join(maturity_mean) %>%
@@ -81,11 +83,16 @@ metadata_length <- length %>%
 
 # Visualise the length distributions
 # Manually added on minimum legal size and length of maturity (Lm)
+library(png)
+
+kgw <- as.raster(readPNG("data/images/Sillaginodes_punctatus_nb_TAYLOR.png"))
+
 ggplot(filter(length, scientific %in% "Sillaginodes punctatus"), aes(length_mm)) +
   geom_density(fill = "grey40", alpha = 0.3) +
   labs(title = "King George Whiting length distribution") +
   geom_vline(xintercept = 280, colour = "red", linetype = "dashed") +
   geom_vline(xintercept = 410, colour = "blue", linetype = "dashed") +
+  annotation_raster(kgw, 100, 200, 0.0075, 0.001) +
   annotate(geom = "text", x = c(280, 410), y = 0.01, label = c("Minimum legal size", "Lm")) +
   theme_classic()
 

@@ -41,7 +41,7 @@ relief <- read.delim("data/raw/habitat/Relief_Dot Point Measurements.txt",
   dplyr::filter(!level_5 %in% c(NA, "")) %>%
   dplyr::mutate(level_5 = as.numeric(level_5)) %>%
   group_by(campaignid, opcode) %>%
-  summarise(mean_relief = sum(level_5),
+  summarise(mean_relief = mean(level_5),
             sd_relief = sd(level_5)) %>%
   ungroup() %>%
   glimpse()

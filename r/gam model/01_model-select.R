@@ -29,19 +29,23 @@ name <- '2024_Albany_stereo-BRUVs'
 # Load data
 dat <- readRDS(here::here(paste0('data/tidy/', 
                                         name,'_tidy-length.rds'))) %>%
+  dplyr::filter(!is.na(Macroalgae),
+                !is.na(mean_relief)) %>%
   glimpse()
 
 # Set the predictor variables to use - these should be variables that you expect to influence your response variable (e.g. ecologically meaningful)
-pred.vars <- c("distance_from_access", "unconsolidated_soft", "mean_relief", "sd_relief", "depth")
+pred.vars <- c("distance_from_access", "Unconsolidated", "Macroalgae", "Seagrasses",
+               "depth_m", "mean_relief", "sd_relief")
 
 # Create a correlation table in order to remove highly correlated variables, which can influence model selection (>0.95)
 round(cor(dat[ , pred.vars]), 2)
 
 # Check to see if any transformations are necessary
-CheckEM::plot_transformations(pred.vars = pred.vars, dat = tidy_length)
+# CheckEM::plot_transformations(pred.vars = pred.vars, dat)
 
 # Re-set the predictor variables with highly correlated variables removed and any transformations carried out
-pred.vars <- c("distance_from_access", "unconsolidated_soft", "mean_relief", "sd_relief", "depth")
+pred.vars <- c("distance_from_access", "Unconsolidated", "Macroalgae", "Seagrasses",
+               "depth_m", "mean_relief", "sd_relief")
 
 # Check to see that your response variables don't have more than 80% zeroes. Model selection will produce unreliable results if data is too zero-inflated
 unique.vars <- unique(as.character(dat$response))
@@ -51,12 +55,14 @@ for(i in 1:length(unique.vars)){
   if(length(which(dat$number == 0)) / nrow(temp.dat) < 0.8){
     resp.vars <- c(resp.vars, unique.vars[i])}
 }
-resp.vars
+resp.vars <- c("Immature KGW", "Legal KGW", "Sublegal KGW")
 
 # Set up the R environment for model selection
-outdir  <- ("model output/") 
+outdir  <- ("model out/") 
 out.all <- list()
 var.imp <- list()
+
+summary(dat)
 
 # Run the full subset model selection process
 # More information is available at:
@@ -66,7 +72,7 @@ for(i in 1:length(resp.vars)){
   use.dat = as.data.frame(dat[which(dat$response == resp.vars[i]),])
   print(resp.vars[i])
   
-  Model1  <- gam(number ~ s(depth, k = 3, bs = 'cr'),
+  Model1  <- gam(number ~ s(depth_m, k = 3, bs = 'cr'),
                  family = tw(),  data = use.dat)
   
   model.set <- generate.model.set(use.dat = use.dat,

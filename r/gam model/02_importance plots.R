@@ -19,7 +19,6 @@ setwd(here::here())
 
 # Set the study name
 name <- '2024_Albany_stereo-BRUVs'
-name <- "Parks-Ningaloo-synthesis"
 
 # Read in the data
 dat <- read.csv(paste("model out", paste(name, "all.var.imp.csv", sep = "_"), sep = "/")) %>% 
@@ -28,7 +27,7 @@ dat <- read.csv(paste("model out", paste(name, "all.var.imp.csv", sep = "_"), se
   glimpse()
 
 dat.taxa <- dat %>%
-  dplyr::mutate(label = case_when(predictor %in% "" & resp.var %in% "" ~ "X",
+  dplyr::mutate(label = case_when(predictor %in% "Immature KGW" & resp.var %in% "Unconsolidated" ~ "X",
                                   .default = NA)) %>%
   glimpse()
 
@@ -39,4 +38,4 @@ ggplot(dat.taxa, aes(x = predictor, y = resp.var, fill = importance)) +
   theme_classic()
 
 #save output - changed dimensions for larger text in report
-ggsave(paste0("figures/fish/", name, "_importance-scores.png"), height = 4, width = 6.275, res = 300)
+ggsave(paste0("plots/", name, "_importance-scores.png"), height = 4, width = 6.275, dpi = 300)

@@ -29,7 +29,8 @@ access <- st_read("data/spatial/shapefiles/National Boat Ramps Reduced.shp") %>%
 
 count <- readRDS(paste0("data/staging/", name, "_tidy-count.rds")) %>%
   st_as_sf(coords = c("longitude_dd", "latitude_dd"), crs = 4326, remove = F) %>%
-  dplyr::mutate(distance_from_access = unlist(st_nn(., access, returnDist = T, progress = F)[2])) %>%
+  dplyr::mutate(distance_from_access = unlist(st_nn(., access, returnDist = T, progress = F)[2]),
+                opcode = as.character(opcode)) %>%
   as.data.frame() %>%
   dplyr::select(-geometry) %>%
   left_join(habitat) %>%
@@ -37,13 +38,12 @@ count <- readRDS(paste0("data/staging/", name, "_tidy-count.rds")) %>%
 
 length <- readRDS(paste0("data/staging/", name, "_tidy-length.rds")) %>%
   st_as_sf(coords = c("longitude_dd", "latitude_dd"), crs = 4326, remove = F) %>%
-  dplyr::mutate(distance_from_access = unlist(st_nn(., access, returnDist = T, progress = F)[2])) %>%
+  dplyr::mutate(distance_from_access = unlist(st_nn(., access, returnDist = T, progress = F)[2]),
+                opcode = as.character(opcode)) %>%
   as.data.frame() %>%
   dplyr::select(-geometry) %>%
   left_join(habitat) %>%
   glimpse()
 
-saveRDS(length, )
-
-
-
+saveRDS(length, paste0('data/tidy/', 
+                       name,'_tidy-length.rds'))
