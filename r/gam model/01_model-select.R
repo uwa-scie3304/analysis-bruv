@@ -18,7 +18,7 @@ library(devtools)
 # devtools::install_github("beckyfisher/FSSgam_package") # USe this to install the FSSgam package if you have not already done so
 library(FSSgam)
 library(here)
-library(ggplot2)
+library(patchwork)
 
 # Set your working directory to the project's directory
 setwd(here::here())
@@ -41,7 +41,7 @@ pred.vars <- c("distance_from_access", "Unconsolidated", "Macroalgae", "Seagrass
 round(cor(dat[ , pred.vars]), 2)
 
 # Check to see if any transformations are necessary
-# CheckEM::plot_transformations(pred.vars = pred.vars, dat)
+CheckEM::plot_transformations(pred.vars = pred.vars, dat = dat)
 
 # Re-set the predictor variables with highly correlated variables removed and any transformations carried out
 pred.vars <- c("distance_from_access", "Unconsolidated", "Macroalgae", "Seagrasses",
@@ -52,10 +52,10 @@ unique.vars <- unique(as.character(dat$response))
 resp.vars <- character()
 for(i in 1:length(unique.vars)){
   temp.dat <- dat[which(dat$response == unique.vars[i]), ]
-  if(length(which(dat$number == 0)) / nrow(temp.dat) < 0.8){
+  if(length(which(temp.dat$number == 0)) / nrow(temp.dat) < 0.8){
     resp.vars <- c(resp.vars, unique.vars[i])}
 }
-resp.vars <- c("Immature KGW", "Legal KGW", "Sublegal KGW")
+resp.vars
 
 # Set up the R environment for model selection
 outdir  <- ("model out/") 
