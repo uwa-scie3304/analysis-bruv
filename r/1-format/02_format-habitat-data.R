@@ -14,11 +14,18 @@ rm(list = ls())
 # devtools::install_github("GlobalArchiveManual/CheckEM") # Use this to install the CheckEM package if you have not already done so
 library(CheckEM)
 library(tidyverse)
+library(ggbeeswarm)
 
 # Set your working directory to the project's directory
 setwd(here::here())
 
 name <- "2024_Albany_stereo-BRUVs"
+
+# Metadata
+metadata <- read.csv("data/raw/fish/pre-checkem/2024_Albany_stereo-BRUVs_Metadata.csv") %>%
+  dplyr::filter(successful_count %in% "Yes") %>%
+  dplyr::mutate(opcode = as.character(opcode)) %>%
+  glimpse()
 
 # Load and format habitat data
 habitat <- read.delim("data/raw/habitat/Annotation_1_Dot Point Measurements.txt", 
@@ -30,7 +37,18 @@ habitat <- read.delim("data/raw/habitat/Annotation_1_Dot Point Measurements.txt"
   group_by(campaignid, opcode, broad) %>%
   summarise(number = sum(number)) %>%
   pivot_wider(names_from = "broad", values_from = "number", values_fill = 0) %>%
+  clean_names() %>%
   ungroup() %>%
+  dplyr::mutate(total_points_annotated = rowSums(.[, 3:ncol(.)])) %>%
+  glimpse()
+
+# Some basic checks
+habitat_missing_metadata <- habitat %>%
+  anti_join(metadata) %>%
+  glimpse()
+
+metadata_missing_habitat <- metadata %>%
+  anti_join(habitat) %>%
   glimpse()
 
 # Load and format the relief data
@@ -46,6 +64,15 @@ relief <- read.delim("data/raw/habitat/Relief_Dot Point Measurements.txt",
   ungroup() %>%
   glimpse()
 
+# Some basic checks
+relief_missing_metadata <- relief %>%
+  anti_join(metadata) %>%
+  glimpse()
+
+metadata_missing_relief <- metadata %>%
+  anti_join(relief) %>%
+  glimpse()
+
 # Join the two datasets
 tidy_habitat <- habitat %>%
   left_join(relief) %>%
@@ -54,8 +81,44 @@ tidy_habitat <- habitat %>%
 # Save the final tidy dataset
 saveRDS(tidy_habitat, file = paste0("data/staging/", name, "_tidy-habitat.rds"))
 
-
 # Some extra plots to check Metadata to habitat points and habitat point to Metadata----
 # Same as CheckEM?
 #    - claude to add one or two bascis plots
-#   bar annd plot by deooth and scatter ies? and bubble?
+#   bar and plot by deooth and scatter ies? and bubble?
+
+# Transform the data back into long format - ggplot needs data this way
+plot_data <- habitat %>%
+  pivot_longer(cols = c(macroalgae, unconsolidated, seagrasses, sponges), names_to = "habitat",
+               values_to = "count") %>%
+  glimpse()
+
+# Nicely jittered plot that only moves points along the y axis (eg it doesn't move the actual 'count' values)
+# Keep in mind that this data doesn't factor the total number of points annotated - eg the open water points removed
+ggplot() +
+  geom_quasirandom(data = plot_data, aes(x = count, y = habitat), groupOnX = F, method = "quasirandom", alpha = 0.25, size = 1.8, width = 0.2) +
+  labs(x = "Number of points", y = "") +
+  theme_classic()
+
+# Spatial bubble plot
+# Join the data with the metadata to plot spatially
+habitat_metadata <- habitat %>%
+  left_join(metadata) %>%
+  dplyr::filter(!is.na(longitude_dd)) %>% # 113 is missing metadata
+  st_as_sf(coords = c("longitude_dd", "latitude_dd"), crs = 4326) %>%
+  glimpse()
+
+aus <- st_read("data/spatial/shapefiles/aus-shapefile-w-investigator-stokes.shp")
+
+# Another basic plot to make nice
+# See package 'ggspatial' for scalebars and north arrows
+ggplot() +
+  geom_sf(data = aus) +
+  geom_sf(data = habitat_metadata, aes(size = macroalgae/total_points_annotated), 
+          alpha = 0.5, colour = "darkblue") +
+  coord_sf(xlim = c(117.839435, 117.949606), 
+           ylim = c(-35.007973, -35.091606),
+           crs = 4326) +
+  theme_classic()
+
+# To save plots, see 
+?ggplot2::ggsave

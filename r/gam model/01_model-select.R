@@ -10,12 +10,12 @@
 rm(list = ls())
 
 # Load libraries
-devtools::install_github("GlobalArchiveManual/CheckEM") # Use this to install the CheckEM package if you have not already done so
+# devtools::install_github("GlobalArchiveManual/CheckEM") # Use this to install the CheckEM package if you have not already done so
 library(CheckEM)
 library(tidyverse)
 library(mgcv)
 # library(devtools)
-devtools::install_github("beckyfisher/FSSgam_package") # USe this to install the FSSgam package if you have not already done so
+# devtools::install_github("beckyfisher/FSSgam_package") # USe this to install the FSSgam package if you have not already done so
 library(FSSgam)
 library(here)
 library(patchwork)
@@ -31,21 +31,24 @@ dat <- readRDS(here::here(paste0('data/tidy/',
                                         name,'_tidy-length.rds'))) %>%
   dplyr::filter(!is.na(Macroalgae),
                 !is.na(mean_relief)) %>%
+  dplyr::mutate(unconsolidated = unconsolidated/total_points_annotated,         # Transform habitats into proportions
+                seagrasses = seagrasses/total_points_annotated,
+                macroalgae = macroalgae/total_points_annotated) %>%
   glimpse()
 
 
 # Consider sub-setign the data to the area of the harbour that is most comparable - maybe the port area? Cna we do this by depth?
 
 
-
 # Set the predictor variables to use - these should be variables that you expect to influence your response variable (e.g. ecologically meaningful)
-pred.vars <- c("distance_from_access", "Unconsolidated", "Macroalgae", "Seagrasses",
+pred.vars <- c("distance_from_access", "unconsolidated", "macroalgae", "seagrasses",
                "depth_m", "mean_relief", "sd_relief")
 
 # Create a correlation table in order to remove highly correlated variables, which can influence model selection (>0.95)
 round(cor(dat[ , pred.vars]), 2)
 
 # Check to see if any transformations are necessary
+# Hey Tim this works fine on my computer - maybe will work if you restart R?
 CheckEM::plot_transformations(pred.vars = pred.vars, dat = dat)
 
 # Re-set the predictor variables with highly correlated variables removed and any transformations carried out
