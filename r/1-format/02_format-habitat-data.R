@@ -15,6 +15,7 @@ rm(list = ls())
 library(CheckEM)
 library(tidyverse)
 library(ggbeeswarm)
+library(scatterpie)
 
 # Set your working directory to the project's directory
 setwd(here::here())
@@ -104,7 +105,7 @@ ggplot() +
 habitat_metadata <- habitat %>%
   left_join(metadata) %>%
   dplyr::filter(!is.na(longitude_dd)) %>% # 113 is missing metadata
-  st_as_sf(coords = c("longitude_dd", "latitude_dd"), crs = 4326) %>%
+  st_as_sf(coords = c("longitude_dd", "latitude_dd"), crs = 4326, remove = F) %>%
   glimpse()
 
 aus <- st_read("data/spatial/shapefiles/aus-shapefile-w-investigator-stokes.shp")
@@ -118,7 +119,23 @@ ggplot() +
   coord_sf(xlim = c(117.839435, 117.949606), 
            ylim = c(-35.007973, -35.091606),
            crs = 4326) +
-  theme_classic()
+  theme_minimal()
 
 # To save plots, see 
 ?ggplot2::ggsave
+
+# Spatial pie charts - scatterpies
+
+ggplot() +
+  geom_sf(data = aus) +
+  geom_scatterpie(data = as.data.frame(habitat_metadata), # Doesn't work with sf dataframes 
+                  aes(x = longitude_dd, y = latitude_dd),
+                  cols = c("macroalgae", "unconsolidated", "seagrasses", "sponges"),
+                  pie_scale = 1.5) +
+  coord_sf(xlim = c(117.839435, 117.949606), 
+           ylim = c(-35.007973, -35.091606),
+           crs = 4326) +
+  theme_minimal()
+
+# Add some nice colours, see
+?ggplot2::scale_fill_manual
