@@ -10,7 +10,7 @@
 rm(list = ls())
 
 # Load libraries and install the CheckEM package (only need to install once)
-library(devtools)
+# library(devtools)
 # devtools::install_github("GlobalArchiveManual/CheckEM") # Use this to install the CheckEM package if you have not already done so
 library(CheckEM)
 library(tidyverse)
@@ -53,3 +53,9 @@ tidy_habitat <- habitat %>%
 
 # Save the final tidy dataset
 saveRDS(tidy_habitat, file = paste0("data/staging/", name, "_tidy-habitat.rds"))
+
+
+# Some extra plots to check Metadata to habitat points and habitat point to Metadata----
+# Same as CheckEM?
+#    - claude to add one or two bascis plots
+#   bar annd plot by deooth and scatter ies? and bubble?

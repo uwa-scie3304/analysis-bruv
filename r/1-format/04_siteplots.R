@@ -23,3 +23,8 @@ ggplot() +
            ylim = c(-35.007973, -35.091606),
            crs = 4326) +
   theme_classic()
+
+# 
+# How else can you plot this data?
+#   How coudl we plot to show the distribution of the abundance by size class?
+

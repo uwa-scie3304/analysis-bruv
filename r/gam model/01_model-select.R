@@ -10,12 +10,12 @@
 rm(list = ls())
 
 # Load libraries
-# devtools::install_github("GlobalArchiveManual/CheckEM") # Use this to install the CheckEM package if you have not already done so
+devtools::install_github("GlobalArchiveManual/CheckEM") # Use this to install the CheckEM package if you have not already done so
 library(CheckEM)
 library(tidyverse)
 library(mgcv)
-library(devtools)
-# devtools::install_github("beckyfisher/FSSgam_package") # USe this to install the FSSgam package if you have not already done so
+# library(devtools)
+devtools::install_github("beckyfisher/FSSgam_package") # USe this to install the FSSgam package if you have not already done so
 library(FSSgam)
 library(here)
 library(patchwork)
@@ -33,6 +33,11 @@ dat <- readRDS(here::here(paste0('data/tidy/',
                 !is.na(mean_relief)) %>%
   glimpse()
 
+
+# Consider sub-setign the data to the area of the harbour that is most comparable - maybe the port area? Cna we do this by depth?
+
+
+
 # Set the predictor variables to use - these should be variables that you expect to influence your response variable (e.g. ecologically meaningful)
 pred.vars <- c("distance_from_access", "Unconsolidated", "Macroalgae", "Seagrasses",
                "depth_m", "mean_relief", "sd_relief")
@@ -47,12 +52,12 @@ CheckEM::plot_transformations(pred.vars = pred.vars, dat = dat)
 pred.vars <- c("distance_from_access", "Unconsolidated", "Macroalgae", "Seagrasses",
                "depth_m", "mean_relief", "sd_relief")
 
-# Check to see that your response variables don't have more than 80% zeroes. Model selection will produce unreliable results if data is too zero-inflated
+# Check to see that your response variables have more than 95% zeroes. Model selection will produce unreliable results if data is too zero-inflated
 unique.vars <- unique(as.character(dat$response))
 resp.vars <- character()
 for(i in 1:length(unique.vars)){
   temp.dat <- dat[which(dat$response == unique.vars[i]), ]
-  if(length(which(temp.dat$number == 0)) / nrow(temp.dat) < 0.8){
+  if(length(which(temp.dat$number == 0)) / nrow(temp.dat) < 0.95){
     resp.vars <- c(resp.vars, unique.vars[i])}
 }
 resp.vars
@@ -104,6 +109,11 @@ for(i in 1:length(resp.vars)){
     dev.off()
   }
 }
+
+
+
+
+
 
 # Save the output files
 names(out.all) <- resp.vars
