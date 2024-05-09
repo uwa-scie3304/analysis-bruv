@@ -29,7 +29,7 @@ name <- '2024_Albany_stereo-BRUVs'
 # Load data
 dat <- readRDS(here::here(paste0('data/tidy/', 
                                         name,'_tidy-length.rds'))) %>%
-  dplyr::filter(!is.na(Macroalgae),
+  dplyr::filter(!is.na(macroalgae),
                 !is.na(mean_relief)) %>%
   dplyr::mutate(unconsolidated = unconsolidated/total_points_annotated,         # Transform habitats into proportions
                 seagrasses = seagrasses/total_points_annotated,
