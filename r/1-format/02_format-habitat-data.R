@@ -9,6 +9,9 @@
 # Clear objects from your environment
 rm(list = ls())
 
+
+# Set up----
+
 # Load libraries and install the CheckEM package (only need to install once)
 # library(devtools)
 # devtools::install_github("GlobalArchiveManual/CheckEM") # Use this to install the CheckEM package if you have not already done so
@@ -22,7 +25,9 @@ setwd(here::here())
 
 name <- "2024_Albany_stereo-BRUVs"
 
-# Metadata
+# Read in data----
+
+# Metadata read
 metadata <- read.csv("data/raw/fish/pre-checkem/2024_Albany_stereo-BRUVs_Metadata.csv") %>%
   dplyr::filter(successful_count %in% "Yes") %>%
   dplyr::mutate(opcode = as.character(opcode)) %>%
@@ -43,7 +48,9 @@ habitat <- read.delim("data/raw/habitat/Annotation_1_Dot Point Measurements.txt"
   dplyr::mutate(total_points_annotated = rowSums(.[, 3:ncol(.)])) %>%
   glimpse()
 
-# Some basic checks
+
+
+# Some basic checks----
 habitat_missing_metadata <- habitat %>%
   anti_join(metadata) %>%
   glimpse()
@@ -52,7 +59,9 @@ metadata_missing_habitat <- metadata %>%
   anti_join(habitat) %>%
   glimpse()
 
-# Load and format the relief data
+
+
+# Load and format the relief data----
 relief <- read.delim("data/raw/habitat/Relief_Dot Point Measurements.txt", 
                      skip = 4, stringsAsFactors = F, colClasses = "character") %>%
   clean_names() %>%
@@ -74,13 +83,16 @@ metadata_missing_relief <- metadata %>%
   anti_join(relief) %>%
   glimpse()
 
-# Join the two datasets
+# Join the two datasets----
 tidy_habitat <- habitat %>%
   left_join(relief) %>%
   glimpse()
 
-# Save the final tidy dataset
+# Save the final tidy dataset----
 saveRDS(tidy_habitat, file = paste0("data/staging/", name, "_tidy-habitat.rds"))
+
+
+
 
 # Some extra plots to check Metadata to habitat points and habitat point to Metadata----
 # Same as CheckEM?

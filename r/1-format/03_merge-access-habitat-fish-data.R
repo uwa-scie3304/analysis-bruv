@@ -20,11 +20,13 @@ setwd(here::here())
 # Set the study name
 name <- "2024_Albany_stereo-BRUVs"
 
-# Load the habitat data
+# Load the habitat data----
 habitat <- readRDS(paste0("data/staging/", name, "_tidy-habitat.rds")) %>%
   glimpse()
 
-# Create distance to boat ramp, and join with habitat data
+
+
+# Create distance to boat ramp, and join with habitat data----
 access <- st_read("data/spatial/shapefiles/National Boat Ramps Reduced.shp") %>%
   dplyr::filter(State %in% "WA") %>%
   st_transform(4326)
@@ -40,7 +42,7 @@ access <- st_read("data/spatial/shapefiles/National Boat Ramps Reduced.shp") %>%
 #   st_as_sf(coords = c("lon", "lat"), crs = 4326)
 # plot(access)
 
-# Join habitat and count data, and create distance from access point (m)
+# Join habitat and count data, and create distance from access point (m)----
 count <- readRDS(paste0("data/staging/", name, "_tidy-count.rds")) %>%
   st_as_sf(coords = c("longitude_dd", "latitude_dd"), crs = 4326, remove = F) %>%
   dplyr::mutate(distance_from_access = unlist(st_nn(., access, returnDist = T, progress = F)[2]),
@@ -60,7 +62,8 @@ length <- readRDS(paste0("data/staging/", name, "_tidy-length.rds")) %>%
   left_join(habitat) %>%
   glimpse()
 
-# Save the length data - count data can be saved in the same way if needed
+# Save the length data----
+# - count data can be saved in the same way if needed
 saveRDS(length, paste0('data/tidy/', 
                        name,'_tidy-length.rds'))
 

@@ -37,7 +37,7 @@ dat <- readRDS(here::here(paste0('data/tidy/',
   glimpse()
 
 
-# Consider sub-setign the data to the area of the harbour that is most comparable - maybe the port area? Cna we do this by depth?
+# Consider sub-setign the data to the area of the harbour that is most comparable - maybe the port area? Can we do this by depth?
 
 
 # Set the predictor variables to use - these should be variables that you expect to influence your response variable (e.g. ecologically meaningful)
@@ -52,7 +52,7 @@ round(cor(dat[ , pred.vars]), 2)
 CheckEM::plot_transformations(pred.vars = pred.vars, dat = dat)
 
 # Re-set the predictor variables with highly correlated variables removed and any transformations carried out
-pred.vars <- c("distance_from_access", "Unconsolidated", "Macroalgae", "Seagrasses",
+pred.vars <- c("distance_from_access", "unconsolidated", "macroalgae", "seagrasses",
                "depth_m", "mean_relief", "sd_relief")
 
 # Check to see that your response variables have more than 95% zeroes. Model selection will produce unreliable results if data is too zero-inflated
@@ -65,6 +65,11 @@ for(i in 1:length(unique.vars)){
 }
 resp.vars
 
+
+# Is the number of egal KGW meaningful? Be interested in a plot? 
+# Is there another way of looking/presenting the length data?
+
+
 # Set up the R environment for model selection
 outdir  <- ("model out/") 
 out.all <- list()
@@ -76,9 +81,29 @@ summary(dat)
 # More information is available at:
 citation("FSSgam") # Run this with other packages when you need a citation for your reports :)
 
+# Fisher, Rebecca, Shaun K. Wilson, Tsai M. Sin, Ai C. Lee, and Tim J. Langlois. 2018. “A Simple Function for Full-Subsets Multiple Regression in Ecology with R.” Ecology and Evolution 8 (12): 6104–13.
+
+citation("mgcv")
+
+# resp.vars
+# 
+# 
+# Model1  <- gam(number ~ s(unconsolidated, k = 3, bs = 'cr'),
+#                family = tw(),  data = dat%>%filter(response%in%"Sublegal KGW"))
+#                
+#                
+# plot(Model1)
+# summary(Model1)
+
+unique(use.dat$response)
+names(dat)
+pred.vars
+
 for(i in 1:length(resp.vars)){
   use.dat = as.data.frame(dat[which(dat$response == resp.vars[i]),])
   print(resp.vars[i])
+  
+
   
   Model1  <- gam(number ~ s(depth_m, k = 3, bs = 'cr'),
                  family = tw(),  data = use.dat)
@@ -86,7 +111,8 @@ for(i in 1:length(resp.vars)){
   model.set <- generate.model.set(use.dat = use.dat,
                                   test.fit = Model1,
                                   pred.vars.cont = pred.vars,
-                                  factor.smooth.interactions = NA,
+                                  # factor.smooth.interactions = NA,
+                                
                                   k = 3)
   out.list <- fit.model.set(model.set,
                             max.models = 600,
@@ -97,7 +123,7 @@ for(i in 1:length(resp.vars)){
   mod.table = out.list$mod.data.out 
   mod.table = mod.table[order(mod.table$AICc),]
   mod.table$cumsum.wi = cumsum(mod.table$wi.AICc)
-  out.i = mod.table[which(mod.table$delta.AICc <= 2),]
+  out.i = mod.table[which(mod.table$delta.AICc <= 10),]
   out.all = c(out.all,list(out.i))
   var.imp = c(var.imp,list(out.list$variable.importance$aic$variable.weights.raw))
   
